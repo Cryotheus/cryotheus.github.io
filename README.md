@@ -1,2 +1,0 @@
-# cryotheus.github.io
-Documentation
