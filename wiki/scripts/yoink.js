@@ -34,12 +34,12 @@ window.Yoink = {
 
 		request.onreadystatechange = function() {
 			current_request = undefined
-			
+
 			if (this.readyState == 4 && this.status == 200) {
 				pagecontent.innerHTML = '<md-block>' + request.responseText + '</md-block>'
 			}
 		}
-		
+
 		request.open('GET', url, false)
 		request.setRequestHeader('Accept', 'application/json')
 		request.send(null)
@@ -53,7 +53,7 @@ window.Yoink = {
 				const files = JSON.parse(request.responseText)
 				const function_list = list_functions[yoink_directory]
 				const ul = document.querySelectorAll('.section[yoink-directory="' + yoink_directory + '"] .level1 .yoink-pages')
-				
+
 				files.forEach(file => {
 					const name = file.name.slice(0, -3).replace("--", ";")
 					const raw_path = file.path
@@ -66,7 +66,7 @@ window.Yoink = {
 						if (part[0])
 							parts.push(part[0].replace(";", "-"))
 					})
-					
+
 					const result = func(parts)
 					const class_attribute = result[0]
 					const display_text = result[1]
@@ -85,7 +85,7 @@ window.Yoink = {
 				});
 			}
 		};
-		
+
 		request.open('GET', 'https://api.github.com/repos/Cryotheus/cryotheus.github.io/contents/wiki/pages/' + yoink_directory, false)
 		request.setRequestHeader('Accept', 'application/json')
 		request.send(null)
