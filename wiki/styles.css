@@ -132,6 +132,12 @@ html > body > .footer {
 	color: #aaa;
 }
 
+img.image {
+	max-width: 100%;
+    display: block;
+    margin: 16px auto;
+}
+
 p {
 	color: #ddd;
 }
