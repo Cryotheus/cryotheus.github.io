@@ -29,7 +29,7 @@ jobs:
       with:
           file-path: wiki/pages/sitemap.txt
           commit-msg: (Automated) Update wiki/pages/sitemap.txt
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.PAT }}
     #- name: Create Pull Request
       #uses: peter-evans/create-pull-request@v3
       #with:
