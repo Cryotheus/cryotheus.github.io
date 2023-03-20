@@ -1,4 +1,5 @@
-//querySelectorAll(selectors)
+import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
+
 function yoink_pages(yoink_directory) {
 	var request = new XMLHttpRequest();
 
@@ -19,5 +20,23 @@ function yoink_pages(yoink_directory) {
 document.querySelectorAll("div[yoink-directory]").forEach(element => {
 	var yoink_directory = element.getAttribute("yoink-directory");
 
-	yoink_pages(yoink_directory)
+	//yoink_pages(yoink_directory)
+	for (let index = 1; index <= element.childElementCount; index++) {
+		//https://api.github.com/repos/Cryotheus/cryotheus.github.io/contents/wiki/pages/playing/1
+	}
 });
+
+const octokit = new Octokit({
+	//auth: 'YOUR-TOKEN'
+})
+//Cryotheus/cryotheus.github.io
+const result = await octokit.request('GET /repos/Cryotheus/cryotheus.github.io/contents/{path}', {
+	owner: 'OWNER',
+	repo: 'REPO',
+	path: 'PATH',
+	headers: {
+		'X-GitHub-Api-Version': '2022-11-28'
+	}
+})
+
+console.log(result)
