@@ -1,7 +1,6 @@
 # Just a test
 
 ```
-
 --some code in here
 local cool = "some string"
 

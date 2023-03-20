@@ -29,6 +29,7 @@ window.Yoink = {
 
 		pagecontent.innerHTML = '<md-block># Loading...</md-block>'
 
+		pagecontent.append()
 		request.onabort = function() {current_request = undefined}
 		request.onerror = function() {current_request = undefined}
 
@@ -36,7 +37,13 @@ window.Yoink = {
 			current_request = undefined
 
 			if (this.readyState == 4 && this.status == 200) {
-				pagecontent.innerHTML = '<md-block>' + request.responseText + '</md-block>'
+				pagecontent.innerHTML = '<md-block>\n' + request.responseText + '\n</md-block>'
+
+				console.log(pagecontent.getElementsByTagName("code"))
+				Array.from(pagecontent.getElementsByTagName("code")).forEach(code => {
+					console.log(code)
+					code.setAttribute("class", code.parentElement.getAttribute("class"))
+				})
 			}
 		}
 
@@ -77,7 +84,7 @@ window.Yoink = {
 					var a_text = document.createTextNode(display_text)
 
 					a.setAttribute("class", class_attribute)
-					a.setAttribute("onclick", "window.Yoink.load('https://raw.githubusercontent.com/Cryotheus/cryotheus.github.io/main/wiki/pages/" + yoink_directory + "/" + file.name + "')")
+					a.setAttribute("onclick", "window.Yoink.load('/wiki/pages/" + yoink_directory + "/" + file.name + "')")
 					a.setAttribute("search", search_term)
 					a.appendChild(a_text)
 					li.appendChild(a)
