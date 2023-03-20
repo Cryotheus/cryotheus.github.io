@@ -1,3 +1,4 @@
+/sitemap.txt
 /developer_reference/1-sh-SomeGlobal.md
 /developer_reference/2-sv-SomeClass.md
 /developer_reference/3-sh-somemodule-somefunction.md
