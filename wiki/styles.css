@@ -9,15 +9,15 @@ a.cm:before {
 	background-color: #9e9e9e;
 }
 
-a.rs::before, .rc::before, .rm::before {
+a.rsv::before, .rcl::before, .rm::before {
 	background-color: #03a9f4 !important;
 }
 
-a.rc::before {
+a.rcl::before {
 	background-color: #dea909 !important;
 }
 
-a.rc.rs::before {
+a.rsh::before {
 	background: linear-gradient(45deg, #dea909 50%, #03a9f4 50.001%);
 }
 
