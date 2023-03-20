@@ -30,10 +30,10 @@ const octokit = new Octokit({
 	//auth: 'YOUR-TOKEN'
 })
 //Cryotheus/cryotheus.github.io
-const result = await octokit.request('GET /repos/Cryotheus/cryotheus.github.io/contents/{path}', {
-	owner: 'OWNER',
-	repo: 'REPO',
-	path: 'PATH',
+const result = await octokit.request('GET /repos/Cryotheus/cryotheus.github.io/contents/wiki/pages/developer_reference', {
+	owner: 'Cryotheus',
+	repo: 'cryotheus.github.io',
+	path: 'wiki/pages/developer_reference',
 	headers: {
 		'X-GitHub-Api-Version': '2022-11-28'
 	}
