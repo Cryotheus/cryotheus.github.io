@@ -47,8 +47,8 @@ h1, h2, h3, h4, h5 {
 }
 
 h1.pagetitle {
-	border-bottom: 3px solid #0082ff;
-	color: #0082ff !important;
+	border-bottom: 3px solid #ff0101;
+	color: #ff0101 !important;
 	font-size: 32px;
 	margin: 32px 0;
 	text-align: center;
@@ -85,7 +85,7 @@ html > body {
 }
 
 html > body a {
-	color: #0082ff;
+	color: #ff0101;
 	text-decoration: none;
 }
 
@@ -249,7 +249,7 @@ summary::-webkit-details-marker {
 
 .contentbar > a, .contentbar > .grow > a {
 	white-space: nowrap;
-	color: #0082ff;
+	color: #ff0101;
 	text-decoration: none;
 	display: flex;
 	align-items: center;
@@ -322,7 +322,7 @@ summary::-webkit-details-marker {
 .infocard .title {
 	font-size: 14px;
 	font-weight: bold;
-	color: #0082ff;
+	color: #ff0101;
 }
 
 .infocard .title .value, .infocard .title .default {
@@ -574,7 +574,7 @@ summary::-webkit-details-marker {
 	padding: 0;
 	line-height: 1;
 	text-align: justify;
-	color: #0082ff;
+	color: #ff0101;
 }
 
 #topbar > .title img {
@@ -675,7 +675,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details > ul > li > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -703,7 +703,7 @@ summary::-webkit-details-marker {
 	padding-top: 3px;
 	padding-bottom: 3px;
 	border-radius: 4px 4px 0 0;
-	background-color: #0082ff;
+	background-color: #ff0101;
 }
 
 #sidebar details.level1[open] > summary > div:hover {
@@ -719,7 +719,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level2.active > summary > div {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -752,7 +752,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level1 > summary > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -826,7 +826,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level2 > summary > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -900,7 +900,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level3 > summary > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -974,7 +974,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level4 > summary > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -1048,7 +1048,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level5 > summary > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -1122,7 +1122,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level6 > summary > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -1196,7 +1196,7 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level7 > summary > a.active {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -1572,7 +1572,7 @@ summary::-webkit-details-marker {
 .body > .footer > div > div > h1 {
 	font-size: 12px;
 	text-transform: uppercase;
-	color: #0082ff;
+	color: #ff0101;
 }
 
 .body > .footer > div > div ul {
@@ -1599,12 +1599,12 @@ summary::-webkit-details-marker {
 }
 
 .body > .footer > div > div ul li a:hover {
-	color: #0082ff;
+	color: #ff0101;
 }
 
 .body > .footer > div > div ul li a.active {
 	background-color: #fff;
-	color: #0082ff;
+	color: #ff0101;
 }
 
 .body > .footer > div > div ul li i {
@@ -1696,7 +1696,7 @@ textarea.dropping {
 	position: relative;
 	top: -32px;
 	margin-top: 0;
-	color: #0082ff;
+	color: #ff0101;
 	margin-bottom: 0;
 }
 
@@ -1763,7 +1763,7 @@ textarea.dropping {
 }
 
 input[type=submit], button, select, a.button {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 	border: 0;
 	border-radius: 3px;
@@ -1776,7 +1776,7 @@ input[type=submit], button, select, a.button {
 }
 
 input[type=submit].primary, button.primary, select.primary, a.button.primary {
-	background-color: #0082ff;
+	background-color: #ff0101;
 	color: #fff;
 }
 
@@ -1786,8 +1786,8 @@ input[type=submit].primary:hover, button.primary:hover, select.primary:hover, a.
 
 input[type=submit].primary.active, button.primary.active, select.primary.active, a.button.primary.active {
 	background-color: #ffffff;
-	border: 1px solid #0082ff;
-	color: #0082ff;
+	border: 1px solid #ff0101;
+	color: #ff0101;
 }
 
 input[type=submit].secondary, button.secondary, select.secondary, a.button.secondary {
@@ -1824,7 +1824,7 @@ option:disabled {
 	flex-shrink: 0;
 	padding: 2px;
 	padding-left: 5px;
-	background-color: #0082ff;
+	background-color: #ff0101;
 	border-right: 1px solid #0075e6;
 	border-radius: 3px 0 0 3px;
 	color: rgba(255, 255, 255, 0.8);
@@ -1931,7 +1931,7 @@ option:disabled {
 }
 
 .body-tabs .pagetitle a.parent:hover {
-	color: #0082ff;
+	color: #ff0101;
 	opacity: 1;
 }
 
@@ -1963,7 +1963,7 @@ option:disabled {
 }
 
 .body-tabs ul li a:hover {
-	color: #0082ff;
+	color: #ff0101;
 }
 
 .body-tabs ul li a.active {
@@ -1974,7 +1974,7 @@ option:disabled {
 }
 
 .body-tabs ul li a.active i {
-	color: #0082ff;
+	color: #ff0101;
 	opacity: 1;
 }
 
