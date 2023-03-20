@@ -19,8 +19,8 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1
       with:
-        base-url-path: https://THE.URL.TO.YOUR.PAGE/
-        path-to-root: docs
+        base-url-path: https://cryotheus.github.io/wiki/pages/
+        path-to-root: wiki/pages
         include-pdf: false
         sitemap-format: txt
 
