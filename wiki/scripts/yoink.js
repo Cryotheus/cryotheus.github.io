@@ -1,5 +1,3 @@
-//https://api.github.com/repos/Cryotheus/cryotheus.github.io/contents/wiki/pages/playing
-//https://raw.githubusercontent.com/Cryotheus/cryotheus.github.io/main/wiki/pages/playing/1-Using%20Pyrition.md
 
 const list_functions = {
 	developer_reference: [
@@ -37,18 +35,27 @@ window.Yoink = {
 		request.onabort = function() {current_request = undefined}
 		request.onerror = function() {current_request = undefined}
 
-		request.onreadystatechange = function() {
+		request.onreadystatechange = async function() {
 			current_request = undefined
 
 			if (this.readyState == 4 && this.status == 200) {
-				pagecontent.innerHTML = '<md-block>\n' + request.responseText + '\n</md-block>'
+				pagecontent.innerHTML = ''
 
-				console.log(pagecontent.getElementsByTagName("code"))
+				var md_block = document.createElement("md-block")
+				md_block.mdContent = request.responseText
+
+				pagecontent.appendChild(md_block)
+				await md_block.render()
 
 				Array.from(pagecontent.getElementsByTagName("code")).forEach(code => {
-					//console.log(code)
-					code.setAttribute("class", code.parentElement.getAttribute("class"))
+					var parent = code.parentElement
+					var parent_class = parent.getAttribute("class")
+					
+					code.setAttribute("class", parent_class === "language-" ? "language-lua" : parent_class)
+					parent.removeAttribute("class")
 				})
+
+				hljs.highlightAll()
 			}
 		}
 
@@ -76,8 +83,6 @@ window.Yoink = {
 							directories[directory] = []
 						
 						directories[directory].push([line, line.substring(directory.length + 2)])
-		
-						console.log(directory)
 					}
 				})
 
@@ -88,7 +93,6 @@ window.Yoink = {
 					directories[directory].forEach(pair => {
 						const file = pair[0]
 						const file_name = pair[1]
-						console.log(file, file_name)
 						const name = file_name.slice(0, -3).replace("--", ";")
 						const matches = [...name.matchAll("[^-]*")]
 						const list_index = parseInt(matches[0])
@@ -117,8 +121,8 @@ window.Yoink = {
 						ul_list[list_index - 1].appendChild(li)
 					});
 
+					//update list counts
 					ul_list.forEach(ul => {
-						console.log(ul, ul.getElementsByTagName("li").length)
 						ul.parentElement.getElementsByClassName("child-count")[0].innerHTML = ul.getElementsByTagName("li").length.toString()
 					})
 				})

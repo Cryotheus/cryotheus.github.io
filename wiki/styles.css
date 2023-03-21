@@ -139,6 +139,22 @@ md-block {
 	color: #eee;
 }
 
+md-block:not([rendered]) {
+	display: none
+}
+
+md-block code {
+	border: 1px solid #444;
+}
+
+md-block h1 {
+	border-bottom: 2px solid #444
+}
+
+md-block h2 {
+	border-bottom: 1px solid #444
+}
+
 md-block img {
 	display: block;
 	margin: 16px auto;
