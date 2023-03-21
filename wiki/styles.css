@@ -136,7 +136,7 @@ html > body > .footer {
 }
 
 md-block {
-	color: #eee;
+	color: #ddd;
 }
 
 md-block:not([rendered]) {
@@ -144,7 +144,19 @@ md-block:not([rendered]) {
 }
 
 md-block code {
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 6px;
+	font-size: 85%;
+	margin: 0;
+	padding: 0.2em 0.4em;
+	white-space: break-spaces;
+}
+
+md-block pre > code {
+	background: transparent;
 	border: 1px solid #444;
+	padding-inline: 0;
+	padding: 0;
 }
 
 md-block h1 {
@@ -159,6 +171,24 @@ md-block img {
 	display: block;
 	margin: 16px auto;
 	max-width: 100%;
+}
+
+md-block table {
+	border-spacing: 0px;
+}
+
+md-block table tr:nth-child(2n) {
+	background-color: rgba(1, 1, 1, 0.1);
+}
+
+md-block td {
+	border: 1px solid #333;
+	padding: 6px 13px;
+}
+
+md-block thead > tr > th {
+	padding-bottom: 8px;
+	padding-top: 4px;
 }
 
 p {
