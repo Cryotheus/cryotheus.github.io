@@ -1,8 +1,24 @@
-
 const list_functions = {
 	developer_reference: [
 		parts => {
-			return ["r" + parts[1], parts[2], parts[2]]
+			let class_parts = "cm "
+			let layer_index = parts[0]
+
+			if (layer_index == 5) {
+				class_parts += "rc "
+			} else {
+				let realm = parts[1] 
+
+				switch (realm) {
+					case "cl": class_parts += "rc "; break
+					case "sh": class_parts += "rs rc "; break
+					case "sv": class_parts += "rs "; break
+				}
+			}
+
+			console.log(parts, class_parts)
+
+			return [class_parts + "e", parts[2], parts[2]]
 		},
 	],
 
@@ -15,47 +31,54 @@ const list_functions = {
 	}]
 }
 
-var current_request;
-var pagecontent = document.getElementById("pagecontent")
-var sidebarbutton = document.getElementById("sidebarbutton")
-var yoink_sections = document.querySelectorAll("div[yoink-directory]")
+let current_request
+let page = new URLSearchParams(document.location.search).get("page")
+let pagecontent = document.getElementById("pagecontent")
+let sidebarbutton = document.getElementById("sidebarbutton")
 
 window.Yoink = {
 	load: function(url) {
-		if (current_request !== undefined) {current_request.abort()}
+		if (current_request) {current_request.abort()}
 
 		//bad idea...
 		ToggleClass('sidebar', 'visible')
 
-		var request = new XMLHttpRequest()
+		let request = new XMLHttpRequest()
 		current_request = request
 		pagecontent.innerHTML = '<md-block>\n# Loading...\n</md-block>'
 
 		//pagecontent.append()
-		request.onabort = function() {current_request = undefined}
-		request.onerror = function() {current_request = undefined}
+		request.onabort = function() {current_request = false}
+		request.onerror = function() {current_request = false}
 
 		request.onreadystatechange = async function() {
-			current_request = undefined
+			current_request = false
 
-			if (this.readyState == 4 && this.status == 200) {
+			if (this.readyState == 4) {
 				pagecontent.innerHTML = ''
 
-				var md_block = document.createElement("md-block")
-				md_block.mdContent = request.responseText
-
+				let md_block = document.createElement("md-block")
 				pagecontent.appendChild(md_block)
-				await md_block.render()
 
-				Array.from(pagecontent.getElementsByTagName("code")).forEach(code => {
-					var parent = code.parentElement
-					var parent_class = parent.getAttribute("class")
-					
-					code.setAttribute("class", parent_class === "language-" ? "language-lua" : parent_class)
-					parent.removeAttribute("class")
-				})
+				if (this.status == 200) {
+					md_block.mdContent = request.responseText
+	
+					await md_block.render()
+	
+					Array.from(pagecontent.getElementsByTagName("code")).forEach(code => {
+						let parent = code.parentElement
+						let parent_class = parent.getAttribute("class")
+						
+						code.setAttribute("class", parent_class === "language-" ? "language-lua" : parent_class)
+						parent.removeAttribute("class")
+					})
+	
+					hljs.highlightAll()
+				} else {
+					md_block.mdContent = "# Oops!\nMarkdown failed to load; details follow below.  \n" + request.responseText
 
-				hljs.highlightAll()
+					await md_block.render()
+				}
 			}
 		}
 
@@ -64,8 +87,8 @@ window.Yoink = {
 		request.send(null)
 	},
 
-	get_pages: function(yoink_sections) {
-		var request = new XMLHttpRequest()
+	get_pages: function() {
+		let request = new XMLHttpRequest()
 
 		request.onreadystatechange = function() {
 			if (this.readyState == 4 && this.status == 200) {
@@ -135,10 +158,6 @@ window.Yoink = {
 	}
 }
 
-document.querySelectorAll("div[yoink-directory]").forEach(section_div => {
-	var yoink_directory = section_div.getAttribute("yoink-directory")
+window.Yoink.get_pages()
 
-	yoink_sections[yoink_directory] = section_div
-});
-
-window.Yoink.get_pages(yoink_sections)
+if (page) {Yoink.load("pages" + page)}
