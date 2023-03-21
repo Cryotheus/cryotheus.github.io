@@ -85,6 +85,20 @@ const list_functions = {
 			hook_ul.appendChild(li)
 
 			return a
+		},
+
+		(ul, parts) => {
+			let display = parts[2] ? parts[1] + ":" + parts[2] : parts[1]
+			let li = document.createElement("li")
+			let a = document.createElement("a")
+			a.innerText = display
+
+			a.setAttribute("class", "cm panel rc")
+			a.setAttribute("search", display)
+			li.appendChild(a)
+			ul.appendChild(li)
+
+			return a
 		}
 	],
 

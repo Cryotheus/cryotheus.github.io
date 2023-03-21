@@ -270,6 +270,7 @@ summary::-webkit-details-marker {
 
 #toolbar > div > .title a {
 	color: white;
+	margin-left: 8px;
 }
 
 #toolbar button {
