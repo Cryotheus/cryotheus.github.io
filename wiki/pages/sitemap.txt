@@ -9,6 +9,9 @@
 /developer_reference/6-sh-SOME_ENUMS.md
 /developer_reference/7-cl-SomeStruct.md
 /developers/1-Code Style.md
-/playing/1-Using Pyrition.md
-/playing/2-Multi--Server Pyrition Setup.md
+/developers/2-Documentation.md
+/developers/2-Necrosis.md
+/developers/3-Pyrition.md
+/playing/1-Necrosis.md
+/playing/1-Pyrition.md
 /playing/2-Pyrition Setup.md
