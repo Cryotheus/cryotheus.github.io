@@ -156,7 +156,7 @@ md-block:not([rendered]) {
 }
 
 md-block code {
-	background-color: rgba(255, 255, 255, 0.1);
+	background-color: #2e2e2e;
 	border-radius: 6px;
 	font-size: 85%;
 	margin: 0;
@@ -883,22 +883,13 @@ summary::-webkit-details-marker {
 }
 
 #sidebar details.level2 > summary > a:hover {
-	background-color: rgba(0, 130, 255, 0.5);
+	background-color: rgba(255, 0, 0, 0.5);
 	color: white;
 }
 
 #sidebar details.level2 > summary > a.active {
 	background-color: #ff0101;
 	color: #fff;
-}
-
-#sidebar details.level2 > summary > a:not([href]) {
-	color: rgba(255, 255, 255, 0.5);
-}
-
-#sidebar details.level2 > summary > a:not([href]):hover {
-	background-color: transparent;
-	color: white;
 }
 
 #sidebar details.level2 > summary:before {
