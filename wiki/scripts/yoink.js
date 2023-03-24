@@ -1,110 +1,56 @@
 let current_request
-let hook_uls = {}
 let page = new URLSearchParams(document.location.search).get("page")
 let pagecontent = document.getElementById("pagecontent")
 let sidebarbutton = document.getElementById("sidebarbutton")
 
-const realm_classes = {
-	"cl": "rc ",
-	"sh": "rs rc ",
-	"sv": "rs "
+let tag_classes = {
+	c: "rc",
+	d: "depr",
+	i: "intrn",
+	s: "rs",
 }
 
-function simple_entry(ul, parts) {
-	let li = document.createElement("li")
-	let a = document.createElement("a")
-	a.innerText = parts[1]
-
-	//a.setAttribute("class", class_parts + " e")
-	a.setAttribute("search", parts[1])
-	li.appendChild(a)
-	ul.appendChild(li)
-
-	return a
+let the_wiki = {
+	developer_reference: [],
+	developers: [],
+	playing: [],
 }
 
-const list_functions = {
-	developer_reference: [
-		(ul, parts) => {
-			let class_parts = "cm "
-			class_parts += parts[0] == 5 ? "rc " : realm_classes[parts[1]]
+function decode_indicative_case(text) {
+	let called = true
+	let new_text = text
 
-			let li = document.createElement("li")
-			let a = document.createElement("a")
-			a.innerText = parts[2]
+	while (called) {
+		called = false
+		new_text = new_text.replace(/\^./, (match) => {
+			called = true
 
-			a.setAttribute("class", class_parts + " e")
-			a.setAttribute("search", parts[2])
-			li.appendChild(a)
-			ul.appendChild(li)
+			return match[1].toUpperCase()
+		})
+	}
 
-			return a
-		},
-
-		undefined,
-		undefined,
-		undefined,
-
-		(ul, parts) => {
-			//let layer_index = parts[0]
-			let hook_table_name = parts[2]
-			let hook_method = parts[3]
-			let realm_class = realm_classes[parts[1]]
-			let hook_ul = hook_uls[hook_table_name]
-
-			if (hook_ul === undefined) {
-				let hook_li = document.createElement("li")
-				let hook_details = document.createElement("details")
-				let hook_summary = document.createElement("summary")
-				let hook_summary_a = document.createElement("a")
-				hook_summary_a.innerText = hook_table_name
-				hook_ul = document.createElement("ul")
-
-				hook_details.setAttribute("class", "level2 cm type")
-
-				hook_summary_a.setAttribute("class", "cm type")
-				hook_summary_a.setAttribute("search", hook_table_name)
-
-				hook_li.appendChild(hook_details)
-				hook_details.appendChild(hook_summary)
-				hook_summary.appendChild(hook_summary_a)
-				
-				hook_details.appendChild(hook_ul)
-				ul.appendChild(hook_li)
-
-				hook_uls[hook_table_name] = hook_ul
-			}
-
-			let li = document.createElement("li")
-			let a = document.createElement("a")
-			a.innerText = hook_method
-
-			a.setAttribute("class", "cm event member " + realm_class + "e")
-			a.setAttribute("search", hook_table_name + ":" + hook_method)
-			li.appendChild(a)
-			hook_ul.appendChild(li)
-
-			return a
-		},
-
-		(ul, parts) => {
-			let display = parts[2] ? parts[1] + ":" + parts[2] : parts[1]
-			let li = document.createElement("li")
-			let a = document.createElement("a")
-			a.innerText = display
-
-			a.setAttribute("class", "cm panel rc")
-			a.setAttribute("search", display)
-			li.appendChild(a)
-			ul.appendChild(li)
-
-			return a
-		}
-	],
-
-	developers: [simple_entry],
-	playing: [simple_entry]
+	return new_text
 }
+
+function strip_extension(file_name) {return file_name.replace(/\.[^/.]+$/, "")}
+
+/*
+	section
+	project
+	category index
+	(optional) parents
+
+	into
+
+	section
+	category index
+	parents =
+
+	file name
+	display name
+	search term
+	class attributes
+*/
 
 window.Yoink = {
 	load: function(url) {
@@ -132,17 +78,17 @@ window.Yoink = {
 
 				if (this.status == 200) {
 					md_block.mdContent = request.responseText
-	
+
 					await md_block.render()
-	
+
 					Array.from(pagecontent.getElementsByTagName("code")).forEach(code => {
 						let parent = code.parentElement
 						let parent_class = parent.getAttribute("class")
-						
+
 						code.setAttribute("class", parent_class === "language-" ? "language-lua" : parent_class)
 						parent.removeAttribute("class")
 					})
-	
+
 					hljs.highlightAll()
 				} else {
 					md_block.mdContent = "# Oops!\nMarkdown failed to load; details follow below.  \n" + request.responseText
@@ -162,83 +108,126 @@ window.Yoink = {
 
 		request.onreadystatechange = function() {
 			if (this.readyState == 4 && this.status == 200) {
-				let directories = {}
-
-				//create a directories object
-				//CRLF and LF
+				//parse the sitemap.txt file to build the_wiki
 				request.responseText.split(/\r?\n/).forEach(line => {
-					let directory = line.match(/\/.*\//)
-		
-					if (directory !== null) {
-						directory = directory[0].slice(1, -1)
-		
-						if (directories[directory] === undefined)
-							directories[directory] = []
-						
-						directories[directory].push([line, line.substring(directory.length + 2)])
+					line = line.substring(1)
+
+					if (line != "sitemap.txt") {
+						let [section, project, category, ...parents] = decode_indicative_case(line).split(/\//)
+
+						if (category) {
+							let category_index = parseInt(category) - 1
+							let index_me = the_wiki[section][category_index]
+							let name = strip_extension(parents.pop())
+							let tag
+							let tags
+
+							//tags
+							if (name.includes("-")) {
+								let reparent
+								tags = ["cm"];
+								[tag, name, ...reparent] = name.split("-")
+
+								if (reparent)
+									reparent.forEach(parent => name = name + "-" + parent)
+
+								tag.split("").forEach(tag => tags.push(tag_classes[tag]))
+
+								tags = tags.join(" ")
+							}
+
+							//create the table
+							if (!index_me)
+								index_me = the_wiki[section][category_index] = {}
+
+							if (parents) {
+								parents.forEach(parent => {
+									let next_index_me = index_me[parent]
+
+									if (!next_index_me)
+										index_me[parent] = {___children: true}
+										index_me = index_me[parent]
+								})
+							}
+
+							let page = {
+								___display: name,
+								___file: line,
+								___project: project,
+								___search: name,
+								___tags: tags,
+							}
+
+							//merge or create
+							if (index_me[name]) {
+								index_me[name] = {
+									...index_me[name],
+									...page
+								}
+							} else {index_me[name] = page}
+						}
 					}
 				})
 
-				Object.keys(directories).forEach(directory => {
-					const function_list = list_functions[directory]
-					let individual = {}
-					let tree = {}
-					const ul_list = document.querySelectorAll('.section[yoink-directory="' + directory + '"] .level1 .yoink-pages')
+				Object.entries(the_wiki).forEach(([directory, categories]) => {
+					let section_uls = document.querySelectorAll('.section[yoink-directory="' + directory + '"] .level1 .yoink-pages')
 
-					/*
-					directories[directory].forEach(pair => {
-						const file = pair[0]
-						const file_name = pair[1]
-						const name = file_name.slice(0, -3).replace("--", ";")
-						const matches = [...name.matchAll("[^-]*")]
-						const list_index = parseInt(matches[0])
-						const func = function_list[list_index] === undefined ? function_list[0] : function_list[list_index]
-						let parts = []
-	
-						matches.forEach((part, index) => {
-							if (part[0])
-								parts.push(part[0].replace(";", "-"))
+					let iterate_categories = (ul, category) => {
+						let key_list = []
+
+						Object.entries(category).forEach(([key]) => {
+							if (!key.startsWith("___"))
+								key_list.push(key)
 						})
-	
-						const result = func(parts)
-						const class_attribute = result[0]
-						const display_text = result[1]
-						const search_term = result[2]
-	
-						let li = document.createElement("li")
-						let a = document.createElement("a")
-						let a_text = document.createTextNode(display_text)
-	
-						a.setAttribute("class", class_attribute)
-						a.setAttribute("onclick", "window.Yoink.load('pages" + file + "')")
-						a.setAttribute("search", search_term)
-						a.appendChild(a_text)
-						li.appendChild(a)
-						ul_list[list_index - 1].appendChild(li)
-					});*/
 
-					directories[directory].forEach(([file, file_name]) => {
-						
-						const matches = [...file_name.replace(/\.[^/.]+$/, "").replace("--", ";").matchAll("[^-]*")]
-						const list_index = parseInt(matches[0])
-						const func = function_list[list_index] === undefined ? function_list[0] : function_list[list_index]
-						let parts = []
+						key_list.sort()
 
-						//create escaped dashes
-						matches.forEach(part => {
-							if (part[0])
-								parts.push(part[0].replace(";", "-"))
+						key_list.forEach(key => {
+							let a = document.createElement("a")
+							let li = document.createElement("li")
+							let page_data = category[key]
+							let tags = page_data.___tags
+
+							if (tags)
+								a.setAttribute("class", tags)
+
+							a.setAttribute("onclick", "window.Yoink.load('pages/" + page_data.___file + "')")
+							a.setAttribute("project", page_data.___project)
+							a.setAttribute("search", page_data.___search)
+							ul.appendChild(li)
+
+							a.innerText = key
+
+							if (page_data.___children) {
+								let details = document.createElement("details")
+								let summary = document.createElement("summary")
+								let sub_ul = document.createElement("ul")
+
+								details.setAttribute("class", "level2 cm")
+
+								summary.appendChild(a)
+
+								details.appendChild(summary)
+								details.appendChild(sub_ul)
+								li.appendChild(details)
+
+								iterate_categories(sub_ul, page_data)
+							} else {
+								li.appendChild(a)
+							}
 						})
-	
-						func(ul_list[list_index - 1], parts).setAttribute("onclick", "window.Yoink.load('pages" + file + "')")
+					}
+
+					categories.forEach((category, index) => {
+						let section_ul = section_uls[index]
+
+						iterate_categories(section_ul, category)
 					})
-
-					//update list counts
-					ul_list.forEach(ul => {ul.parentElement.getElementsByClassName("child-count")[0].innerHTML = ul.getElementsByTagName("li").length.toString()})
 				})
+
 			}
-		};
-		
+		}
+
 		request.open('GET', 'pages/sitemap.txt', false)
 		request.setRequestHeader('Accept', 'application/json')
 		request.send(null)
@@ -246,5 +235,3 @@ window.Yoink = {
 }
 
 window.Yoink.get_pages()
-
-if (page) {Yoink.load("pages" + page)}

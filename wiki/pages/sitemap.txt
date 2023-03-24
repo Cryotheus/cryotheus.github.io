@@ -1,17 +1,9 @@
+/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/c-^language^display.txt
+/developers/General/1/Code Style.md
+/developers/Necrosis/2/Necrosis.md
+/developers/Pyrition/1/Documentation.md
+/developers/Pyrition/3/Pyrition.md
+/playing/Necrosis/1/Necrosis.md
+/playing/Pyrition/1/Pyrition.md
+/playing/Pyrition/2/Pyrition Setup.md
 /sitemap.txt
-/developer_reference/1-sh-SomeGlobal.md
-/developer_reference/2-sv-SomeClass.md
-/developer_reference/3-sh-somemodule-somefunction.md
-/developer_reference/4-sv-SOMETABLE-SomeHook.md
-/developer_reference/5-AnotherPanel.md
-/developer_reference/5-SomePanel-SomeMethod.md
-/developer_reference/5-SomePanel.md
-/developer_reference/6-sh-SOME_ENUMS.md
-/developer_reference/7-cl-SomeStruct.md
-/developers/1-Code Style.md
-/developers/2-Documentation.md
-/developers/2-Necrosis.md
-/developers/3-Pyrition.md
-/playing/1-Necrosis.md
-/playing/1-Pyrition.md
-/playing/2-Pyrition Setup.md

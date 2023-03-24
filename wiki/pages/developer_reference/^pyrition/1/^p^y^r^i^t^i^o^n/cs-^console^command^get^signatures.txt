@@ -1,0 +1,2 @@
+# ConsoleCommandGetSignatures
+No documentation available.

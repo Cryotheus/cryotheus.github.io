@@ -1,0 +1,2 @@
+# PyritionConsoleCommandArgumentRegister
+No documentation available.

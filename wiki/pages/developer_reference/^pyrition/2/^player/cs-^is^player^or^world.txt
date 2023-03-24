@@ -1,0 +1,2 @@
+# IsPlayerOrWorld
+No documentation available.

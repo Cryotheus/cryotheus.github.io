@@ -1,0 +1,2 @@
+# ConsoleCommandArgumentGetSettingMacro
+No documentation available.

@@ -1,0 +1,2 @@
+# PyritionConsoleCommandRegister
+No documentation available.
