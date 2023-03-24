@@ -1,2 +1,4 @@
 # GetAxis
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L222-L232
+TAGS: cs-->
+No documentation found.

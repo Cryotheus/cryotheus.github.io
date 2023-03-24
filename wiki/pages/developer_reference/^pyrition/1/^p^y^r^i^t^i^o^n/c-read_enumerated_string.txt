@@ -1,2 +1,4 @@
 # read_enumerated_string
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L7-L20
+TAGS: c-->
+No documentation found.

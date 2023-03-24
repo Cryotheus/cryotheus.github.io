@@ -1,2 +1,4 @@
 # ConsoleCommandSignatureTreeSet
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L30-L46
+TAGS: cs-->
+No documentation found.

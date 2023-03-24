@@ -1,2 +1,4 @@
 # NetStreamBenchmark
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L853-L898
+TAGS: cs-->
+No documentation found.

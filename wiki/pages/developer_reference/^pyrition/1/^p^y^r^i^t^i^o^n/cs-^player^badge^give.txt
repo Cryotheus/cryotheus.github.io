@@ -1,2 +1,4 @@
 # PlayerBadgeGive
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L152-L172
+TAGS: cs-->
+No documentation found.

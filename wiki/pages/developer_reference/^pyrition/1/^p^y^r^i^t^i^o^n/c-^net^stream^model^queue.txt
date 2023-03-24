@@ -1,2 +1,4 @@
 # NetStreamModelQueue
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/client.lua#L24-L40
+TAGS: c-->
+No documentation found.

@@ -1,2 +1,4 @@
 # PyritionConsoleCommandArgumentRegister
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command_argument.lua#L126-L140
+TAGS: cs-->
+No documentation found.

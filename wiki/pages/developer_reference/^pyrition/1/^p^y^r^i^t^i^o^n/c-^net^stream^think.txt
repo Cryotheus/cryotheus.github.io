@@ -1,2 +1,4 @@
 # NetStreamThink
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/client.lua#L4-L8
+TAGS: c-->
+No documentation found.

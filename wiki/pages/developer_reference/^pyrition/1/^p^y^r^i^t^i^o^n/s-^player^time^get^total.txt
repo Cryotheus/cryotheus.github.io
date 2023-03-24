@@ -1,2 +1,4 @@
 # PlayerTimeGetTotal
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L28-L36
+TAGS: s-->
+No documentation found.

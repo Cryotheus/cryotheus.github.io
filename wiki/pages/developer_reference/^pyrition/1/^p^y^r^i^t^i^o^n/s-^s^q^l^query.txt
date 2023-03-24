@@ -1,2 +1,4 @@
 # SQLQuery
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L183-L191
+TAGS: s-->
+No documentation found.

@@ -1,2 +1,4 @@
 # PyritionNetClientInitialized
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L64
+TAGS: c-->
+No documentation found.

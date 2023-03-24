@@ -1,2 +1,4 @@
 # MapDisableGame
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L65
+TAGS: s-->
+No documentation found.

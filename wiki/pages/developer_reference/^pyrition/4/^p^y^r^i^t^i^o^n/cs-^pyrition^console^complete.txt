@@ -1,2 +1,4 @@
 # PyritionConsoleComplete
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L76-L78
+TAGS: cs-->
+No documentation found.

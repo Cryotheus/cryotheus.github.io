@@ -1,2 +1,4 @@
 # MapChange
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L41-L62
+TAGS: s-->
+No documentation found.

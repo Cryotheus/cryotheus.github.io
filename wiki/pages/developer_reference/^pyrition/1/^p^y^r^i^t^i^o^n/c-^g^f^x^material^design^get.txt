@@ -1,2 +1,4 @@
 # GFXMaterialDesignGet
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gfx/material_design.lua#L98-L108
+TAGS: c-->
+No documentation found.

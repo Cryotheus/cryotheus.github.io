@@ -1,2 +1,4 @@
 # read_player
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L18
+TAGS: cs-->
+No documentation found.

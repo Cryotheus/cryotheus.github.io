@@ -1,2 +1,4 @@
 # ConsoleParseArguments
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L20-L43
+TAGS: cs-->
+No documentation found.

@@ -1,2 +1,4 @@
 # PlayerFindBySteamID
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/find.lua#L43-L61
+TAGS: cs-->
+No documentation found.

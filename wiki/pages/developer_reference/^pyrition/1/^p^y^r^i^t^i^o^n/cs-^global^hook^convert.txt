@@ -1,2 +1,4 @@
 # GlobalHookConvert
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/hook.lua#L29-L34
+TAGS: cs-->
+No documentation found.

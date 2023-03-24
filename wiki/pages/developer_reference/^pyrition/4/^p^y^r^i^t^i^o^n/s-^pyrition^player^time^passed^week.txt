@@ -1,2 +1,4 @@
 # PyritionPlayerTimePassedWeek
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L83-L88
+TAGS: s-->
+No documentation found.

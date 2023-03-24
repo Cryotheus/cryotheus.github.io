@@ -1,2 +1,4 @@
 # PyritionSQLInitialized
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L235-L243
+TAGS: s-->
+No documentation found.

@@ -1,2 +1,4 @@
 # Hibernate
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/hibernate.lua#L15-L28
+TAGS: s-->
+No documentation found.

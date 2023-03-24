@@ -1,2 +1,4 @@
 # PlayerBadgeRemove
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L182-L191
+TAGS: cs-->
+No documentation found.

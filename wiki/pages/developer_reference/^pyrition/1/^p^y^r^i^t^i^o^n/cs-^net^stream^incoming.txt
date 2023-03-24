@@ -1,2 +1,4 @@
 # NetStreamIncoming
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L941-L999
+TAGS: cs-->
+No documentation found.

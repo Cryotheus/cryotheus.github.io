@@ -1,2 +1,4 @@
 # NetStreamModelThink
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/client.lua#L42-L46
+TAGS: c-->
+No documentation found.

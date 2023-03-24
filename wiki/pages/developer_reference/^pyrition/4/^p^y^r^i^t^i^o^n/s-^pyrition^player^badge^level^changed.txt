@@ -1,2 +1,4 @@
 # PyritionPlayerBadgeLevelChanged
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L80-L98
+TAGS: s-->
+No documentation found.

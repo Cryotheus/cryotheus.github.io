@@ -1,2 +1,4 @@
 # LanguageQueue
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/server.lua#L34-L57
+TAGS: s-->
+No documentation found.

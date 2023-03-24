@@ -1,2 +1,4 @@
 # Clamp
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L122-L136
+TAGS: cs-->
+No documentation found.

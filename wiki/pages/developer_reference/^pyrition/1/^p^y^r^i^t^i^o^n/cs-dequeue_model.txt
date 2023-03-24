@@ -1,2 +1,4 @@
 # dequeue_model
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L14-L17
+TAGS: cs-->
+No documentation found.

@@ -1,2 +1,4 @@
 # AbsoluteDot
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L94
+TAGS: cs-->
+No documentation found.

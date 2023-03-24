@@ -1,2 +1,4 @@
 # query
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/includes/sqlite.lua#L5-L32
+TAGS: s-->
+No documentation found.

@@ -1,2 +1,4 @@
 # TimeConnected
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/client.lua#L5
+TAGS: c-->
+No documentation found.

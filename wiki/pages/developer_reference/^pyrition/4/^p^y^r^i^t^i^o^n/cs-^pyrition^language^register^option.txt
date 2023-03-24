@@ -1,2 +1,4 @@
 # PyritionLanguageRegisterOption
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L320-L327
+TAGS: cs-->
+No documentation found.

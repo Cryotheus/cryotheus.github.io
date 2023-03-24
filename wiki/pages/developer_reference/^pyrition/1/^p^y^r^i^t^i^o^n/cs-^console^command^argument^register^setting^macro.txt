@@ -1,2 +1,4 @@
 # ConsoleCommandArgumentRegisterSettingMacro
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command_argument.lua#L72-L77
+TAGS: cs-->
+No documentation found.

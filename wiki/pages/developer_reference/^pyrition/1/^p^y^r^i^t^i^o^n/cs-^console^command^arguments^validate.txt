@@ -1,2 +1,4 @@
 # ConsoleCommandArgumentsValidate
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command_argument.lua#L79-L123
+TAGS: cs-->
+No documentation found.

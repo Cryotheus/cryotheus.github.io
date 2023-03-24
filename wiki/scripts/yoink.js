@@ -35,6 +35,8 @@ function decode_indicative_case(text) {
 function strip_extension(file_name) {return file_name.replace(/\.[^/.]+$/, "")}
 
 /*
+	<!--META!\s*([^]*)-->
+
 	section
 	project
 	category index

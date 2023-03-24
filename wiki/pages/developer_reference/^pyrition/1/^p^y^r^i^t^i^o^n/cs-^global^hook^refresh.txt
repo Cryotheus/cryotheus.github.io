@@ -1,2 +1,4 @@
 # GlobalHookRefresh
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/hook.lua#L42-L57
+TAGS: cs-->
+No documentation found.

@@ -1,2 +1,4 @@
 # PyritionConsoleCommandRegister
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L55-L102
+TAGS: cs-->
+No documentation found.

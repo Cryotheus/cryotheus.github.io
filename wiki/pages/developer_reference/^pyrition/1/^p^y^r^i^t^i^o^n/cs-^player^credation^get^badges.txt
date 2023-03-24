@@ -1,2 +1,4 @@
 # PlayerCredationGetBadges
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/credation.lua#L22-L26
+TAGS: cs-->
+No documentation found.

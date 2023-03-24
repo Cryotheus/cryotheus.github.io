@@ -1,2 +1,4 @@
 # PlayerBadgeRevoke
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L43-L55
+TAGS: s-->
+No documentation found.

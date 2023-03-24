@@ -1,2 +1,4 @@
 # somatic_gradient_map
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gradient.lua#L41-L72
+TAGS: cs-->
+No documentation found.

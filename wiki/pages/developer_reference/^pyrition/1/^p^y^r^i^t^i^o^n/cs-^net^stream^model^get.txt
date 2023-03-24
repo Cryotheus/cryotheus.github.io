@@ -1,2 +1,4 @@
 # NetStreamModelGet
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L93-L96
+TAGS: cs-->
+No documentation found.

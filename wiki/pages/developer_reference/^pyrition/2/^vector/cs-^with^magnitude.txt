@@ -1,2 +1,4 @@
 # WithMagnitude
-No documentation available.
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L276
+TAGS: cs-->
+No documentation found.
