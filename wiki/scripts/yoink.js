@@ -217,11 +217,7 @@ window.Yoink = {
 								li.appendChild(details)
 
 								count = iterate_categories(sub_ul, page_data, count)
-							} else {
-								count++
-
-								li.appendChild(a)
-							}
+							} else {li.appendChild(a)}
 						})
 
 						return count
