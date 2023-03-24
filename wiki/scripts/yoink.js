@@ -191,17 +191,19 @@ window.Yoink = {
 							if (tags)
 								a.setAttribute("class", tags)
 
-							a.setAttribute("onclick", "window.Yoink.load('pages/" + page_data.___file + "')")
-							a.setAttribute("project", page_data.___project)
-							a.setAttribute("search", page_data.___search)
+							if (page_data.___file) {
+								count++
+								
+								a.setAttribute("onclick", "window.Yoink.load('pages/" + page_data.___file + "')")
+								a.setAttribute("project", page_data.___project)
+								a.setAttribute("search", page_data.___search)
+							} else {a.setAttribute("search", key)}
+
 							ul.appendChild(li)
 
 							a.innerText = key
 
 							if (page_data.___children) {
-								if (page_data.___file)
-									count++
-
 								let details = document.createElement("details")
 								let summary = document.createElement("summary")
 								let sub_ul = document.createElement("ul")
