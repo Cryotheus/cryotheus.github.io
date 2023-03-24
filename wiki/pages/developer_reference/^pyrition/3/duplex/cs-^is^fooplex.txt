@@ -1,2 +1,4 @@
 # IsFooplex
-No documentation available.
+TYPES: table
+RETURNS: boolean
+Returns true if the duplex is not sequential, false otherwise.

@@ -1,2 +1,2 @@
 # ConsoleParseString
-No documentation available.
+Parses the `arguments_string` into a table of arguments.

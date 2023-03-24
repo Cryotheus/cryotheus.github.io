@@ -1,2 +1,4 @@
 # Sort
-No documentation available.
+TYPES: table, function=nil
+RETURNS: table, table
+Sorts the duplex, and returns the sorted table and a list of the values.

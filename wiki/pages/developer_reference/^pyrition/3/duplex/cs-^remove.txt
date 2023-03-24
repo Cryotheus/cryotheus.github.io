@@ -1,2 +1,4 @@
 # Remove
-No documentation available.
+TYPES: table, number
+RETURNS: any
+Removes an entry from the duplex, and returns the value. All following entries are shifted down.

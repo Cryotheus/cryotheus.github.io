@@ -1,2 +1,4 @@
 # Set
-No documentation available.
+TYPES: table, number, any
+RETURNS: number
+Sets a value at a specific index in the duplex, and returns the index.

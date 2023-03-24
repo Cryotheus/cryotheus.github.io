@@ -1,2 +1,3 @@
 # Extract
-No documentation available.
+TYPES: table
+RETURNS: table

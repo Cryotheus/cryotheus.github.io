@@ -1,2 +1,2 @@
 # ConsoleCommandGetSignatures
-No documentation available.
+Returns a table of signatures for the given command path string.

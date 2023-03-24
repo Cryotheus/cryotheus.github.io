@@ -1,2 +1,4 @@
 # Make
-No documentation available.
+TYPES: table, boolean
+RETURNS: table
+Creates a duplex from a sequential table, or turns the original into one instead of creating a new table entirely.

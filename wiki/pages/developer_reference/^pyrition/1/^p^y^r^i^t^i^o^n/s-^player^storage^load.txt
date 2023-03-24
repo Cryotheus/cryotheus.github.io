@@ -1,2 +1,3 @@
 # PlayerStorageLoad
-No documentation available.
+Loads a specific storage for the specified player, overwriting any existing data.
+This calls `PlayerStorageLoaded` when finished.

@@ -1,2 +1,4 @@
 # Insert
-No documentation available.
+TYPES: table, any
+TYPES: table, number, any
+RETURNS: number

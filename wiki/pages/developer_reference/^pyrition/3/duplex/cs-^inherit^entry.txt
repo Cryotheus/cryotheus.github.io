@@ -1,2 +1,3 @@
 # InheritEntry
-No documentation available.
+TYPES: table, table, any
+RETURNS: any

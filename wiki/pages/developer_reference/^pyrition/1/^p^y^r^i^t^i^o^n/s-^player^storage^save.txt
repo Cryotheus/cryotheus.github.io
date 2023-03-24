@@ -1,2 +1,2 @@
 # PlayerStorageSave
-No documentation available.
+Saves a single storage specified by the `ply` and `key`.

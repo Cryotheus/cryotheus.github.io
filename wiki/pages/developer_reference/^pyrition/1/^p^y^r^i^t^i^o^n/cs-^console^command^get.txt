@@ -1,2 +1,3 @@
 # ConsoleCommandGet
-No documentation available.
+Returns the command table when given the full command signature, eg. `health~Player Integer`.
+Also returns argument signature's index in the command's `Signature` table.

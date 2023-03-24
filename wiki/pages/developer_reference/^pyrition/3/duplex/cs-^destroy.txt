@@ -1,2 +1,4 @@
 # Destroy
-No documentation available.
+TYPES: table
+RETURNS: table
+Turns the duplex into a list, modifying the original table.

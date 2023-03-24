@@ -1,2 +1,2 @@
 # HTMLParseAsync
-No documentation available.
+Parses an XHTML string asynchronously, calling the `callback` function with a table of the elements when finished.

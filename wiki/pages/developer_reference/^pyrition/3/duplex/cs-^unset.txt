@@ -1,2 +1,4 @@
 # Unset
-No documentation available.
+TYPES: table, any
+RETURNS: any
+Removes an entry from the duplex, and returns the index. This does not shift down the following entries.
