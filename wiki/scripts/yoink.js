@@ -172,7 +172,7 @@ window.Yoink = {
 				Object.entries(the_wiki).forEach(([directory, categories]) => {
 					let section_uls = document.querySelectorAll('.section[yoink-directory="' + directory + '"] .level1 .yoink-pages')
 
-					let iterate_categories = (ul, category) => {
+					let iterate_categories = (ul, category, count) => {
 						let key_list = []
 
 						Object.entries(category).forEach(([key]) => {
@@ -199,6 +199,9 @@ window.Yoink = {
 							a.innerText = key
 
 							if (page_data.___children) {
+								if (page_data.___file)
+									count++
+
 								let details = document.createElement("details")
 								let summary = document.createElement("summary")
 								let sub_ul = document.createElement("ul")
@@ -211,17 +214,22 @@ window.Yoink = {
 								details.appendChild(sub_ul)
 								li.appendChild(details)
 
-								iterate_categories(sub_ul, page_data)
+								count = iterate_categories(sub_ul, page_data, count)
 							} else {
+								count++
+
 								li.appendChild(a)
 							}
 						})
+
+						return count
 					}
 
 					categories.forEach((category, index) => {
 						let section_ul = section_uls[index]
+						let count = iterate_categories(section_ul, category, 0)
 
-						iterate_categories(section_ul, category)
+						section_ul.parentElement.getElementsByClassName("child-count")[0].innerHTML = count.toString()
 					})
 				})
 
