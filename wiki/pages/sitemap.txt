@@ -163,12 +163,12 @@
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^s^q^l^discard.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^s^q^l^escape.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^s^q^l^query.txt
-/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-ip_to_string.txt
+/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-_^i^p^to^string.txt
+/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-_^string^to^i^p.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-query.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-read_enumerated_string.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-recipient_iterable.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-recipient_pairs.txt
-/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-string_to_ip.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-write_enumerated_string.txt
 /developer_reference/^pyrition/2/^player/c-^time^connected.txt
 /developer_reference/^pyrition/2/^player/cs-^is^player^or^world.txt
