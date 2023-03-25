@@ -10,6 +10,24 @@ let tag_classes = {
 	s: "rs",
 }
 
+let tag_functions = {
+	SOURCE: (md_block, value) => {
+		let div = document.createElement("div")
+		let a = document.createElement("a")
+		a.innerText = "View Source"
+		let span = document.createElement("span")
+
+		a.setAttribute("href", value)
+		div.setAttribute("class", "function_links")
+		span.setAttribute("class", "iconify")
+		span.setAttribute("data-icon", "mdi:source-branch")
+
+		a.insertBefore(span, a.firstChild)
+		div.appendChild(a)
+		md_block.insertBefore(div, md_block.firstChild)
+	}
+}
+
 let the_wiki = {
 	developer_reference: [],
 	developers: [],
@@ -79,7 +97,24 @@ window.Yoink = {
 				pagecontent.appendChild(md_block)
 
 				if (this.status == 200) {
-					md_block.mdContent = request.responseText
+					let metadata
+					let meta_list
+					let response = request.responseText
+
+					response.replace(/<!--META!\s*([^]*)-->/, (match, capture) => {
+						metadata = {}
+						meta_list = []
+						
+						capture.split(/\r?\n/).forEach(line => {
+							let [_, key, value] = line.match(/([^:]+):\s*(.*)/)
+							metadata[key] = value
+							meta_list.push(key)
+						})
+
+						return ""
+					})
+
+					md_block.mdContent = response
 
 					await md_block.render()
 
@@ -90,6 +125,15 @@ window.Yoink = {
 						code.setAttribute("class", parent_class === "language-" ? "language-lua" : parent_class)
 						parent.removeAttribute("class")
 					})
+
+					if (metadata) {
+						meta_list.forEach(key => {
+							let tag_function = tag_functions[key]
+
+							if (tag_function)
+								tag_function(md_block, metadata[key])
+						})
+					}
 
 					hljs.highlightAll()
 				} else {
@@ -232,7 +276,6 @@ window.Yoink = {
 						section_ul.parentElement.getElementsByClassName("child-count")[0].innerHTML = count.toString()
 					})
 				})
-
 			}
 		}
 
@@ -243,3 +286,5 @@ window.Yoink = {
 }
 
 window.Yoink.get_pages()
+
+if (page) {Yoink.load("pages" + page)}
