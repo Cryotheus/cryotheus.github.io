@@ -3,7 +3,8 @@ For the sake of consistency, **localization** is the process of making your code
 We're going to ignore others' definitions. Localized code can have translations made to substitute text with the proper language. The component in Pyrition uses the existing localization system available in the Source engine, but has a powerful parser to correctly format variable text into localization phrases, **with context**.
 
 # Formatting
-To substitute tags in our localized phrases, multiple variants of the `LanguageFormat` method are available. Based on the tag, the text substituted will behave differently. The color and even the text to substitute can change with kieve functions. A kieve function is a function that runs for specified tags when they have additional key values attached. The function will use the kieve functions for context in deciding the text used for substitution.
+Skip this section if you're not programming localizations into your code.  
+To substitute tags in our localized phrases, multiple variants of the `LanguageFormat` method are available. Based on the tag, the text substituted will behave differently. The text and even the color substituted can change with kieve functions. A kieve function is a function that runs for specified tags when they have additional key values attached. The language component's formatting uses the kieve functions for context in deciding the text used for substitution.
 
 # Breakdowns with Samples
 ### Map Change
