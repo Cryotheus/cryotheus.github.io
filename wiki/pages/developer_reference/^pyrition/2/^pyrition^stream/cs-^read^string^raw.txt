@@ -1,0 +1,4 @@
+# ReadStringRaw
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L475-L486
+TAGS: cs-->
+No documentation found.

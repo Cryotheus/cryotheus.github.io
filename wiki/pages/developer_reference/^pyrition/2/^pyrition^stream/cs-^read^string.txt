@@ -1,0 +1,4 @@
+# ReadString
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L473
+TAGS: cs-->
+No documentation found.

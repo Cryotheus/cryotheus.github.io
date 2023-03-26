@@ -1,0 +1,4 @@
+# ReadEnumeratedString
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L426-L433
+TAGS: cs-->
+No documentation found.

@@ -1,4 +1,4 @@
 # NetStreamCreate
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L921-L939
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L922-L940
 TAGS: cs-->
 No documentation found.

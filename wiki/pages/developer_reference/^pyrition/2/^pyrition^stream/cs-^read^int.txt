@@ -1,0 +1,4 @@
+# ReadInt
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L437-L441
+TAGS: cs-->
+No documentation found.

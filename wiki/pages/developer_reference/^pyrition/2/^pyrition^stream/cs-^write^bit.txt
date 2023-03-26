@@ -1,0 +1,4 @@
+# WriteBit
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L607-L622
+TAGS: cs-->
+No documentation found.

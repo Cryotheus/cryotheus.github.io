@@ -1,0 +1,4 @@
+# ReadSignedByte
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L467-L471
+TAGS: cs-->
+No documentation found.

@@ -1,0 +1,4 @@
+# WriteTerminatedString
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L760-L763
+TAGS: cs-->
+No documentation found.

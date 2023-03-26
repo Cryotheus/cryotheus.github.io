@@ -1,0 +1,4 @@
+# ReadAlign
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L353-L358
+TAGS: cs-->
+No documentation found.

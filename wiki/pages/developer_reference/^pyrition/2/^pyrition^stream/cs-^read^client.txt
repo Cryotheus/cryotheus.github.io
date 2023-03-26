@@ -1,0 +1,4 @@
+# ReadClient
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L424
+TAGS: cs-->
+No documentation found.

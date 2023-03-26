@@ -1,4 +1,4 @@
 # NetStreamBuildOrder
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L900-L919
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L901-L920
 TAGS: cs-->
 No documentation found.

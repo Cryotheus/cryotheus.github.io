@@ -1,0 +1,4 @@
+# ReadBit
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L362-L377
+TAGS: cs-->
+No documentation found.

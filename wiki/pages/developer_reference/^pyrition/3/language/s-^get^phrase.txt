@@ -1,0 +1,4 @@
+# GetPhrase
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/language.lua#L78
+TAGS: s-->
+No documentation found.

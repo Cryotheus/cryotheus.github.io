@@ -1,0 +1,4 @@
+# Sync
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L79
+TAGS: cs-->
+No documentation found.

@@ -1,0 +1,4 @@
+# NetWrite
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L305-L349
+TAGS: cs-->
+No documentation found.

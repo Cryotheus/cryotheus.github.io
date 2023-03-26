@@ -1,4 +1,4 @@
 # NetStreamWrite
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L1022-L1051
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L1023-L1052
 TAGS: cs-->
 No documentation found.
