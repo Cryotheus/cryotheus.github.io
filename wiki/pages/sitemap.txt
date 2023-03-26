@@ -1,5 +1,4 @@
 /sitemap.txt
-/developers/3-Pyrition.md
 /developers/General/1/Code Style.md
 /developers/Necrosis/2/Necrosis.md
 /developers/Pyrition/1/Documentation.md
