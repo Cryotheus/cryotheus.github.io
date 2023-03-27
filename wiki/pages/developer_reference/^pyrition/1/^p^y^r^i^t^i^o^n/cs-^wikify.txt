@@ -1,4 +1,4 @@
 # Wikify
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L122-L220
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L122-L222
 TAGS: cs-->
 No documentation found.

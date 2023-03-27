@@ -1,4 +1,5 @@
 # somatic_gradient_map
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gradient.lua#L41-L72
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: fraction map formulae-->
 No documentation found.

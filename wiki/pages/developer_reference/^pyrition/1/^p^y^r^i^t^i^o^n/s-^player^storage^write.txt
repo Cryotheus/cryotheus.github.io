@@ -1,4 +1,5 @@
 # PlayerStorageWrite
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L192-L209
-TAGS: s-->
+TAGS: s
+ARGUMENTS: stream ply key fields-->
 No documentation found.

@@ -1,4 +1,5 @@
 # PyritionSQLInitialized
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L235-L243
-TAGS: s-->
+TAGS: s
+ARGUMENTS: _database database_name-->
 No documentation found.

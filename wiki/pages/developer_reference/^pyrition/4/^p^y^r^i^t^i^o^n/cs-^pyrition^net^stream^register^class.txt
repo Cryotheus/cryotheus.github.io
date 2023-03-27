@@ -1,4 +1,5 @@
 # PyritionNetStreamRegisterClass
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L1055
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: class realm _enumerated-->
 No documentation found.

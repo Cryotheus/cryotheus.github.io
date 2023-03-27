@@ -1,4 +1,5 @@
 # LanguageRegisterLogFilter
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/server.lua#L60
-TAGS: s-->
+TAGS: s
+ARGUMENTS: key enabled-->
 No documentation found.

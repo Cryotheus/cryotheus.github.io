@@ -1,4 +1,5 @@
 # query
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/includes/sqlite.lua#L5-L32
-TAGS: s-->
+TAGS: s
+ARGUMENTS: instruction callback error_callback-->
 No documentation found.

@@ -1,4 +1,5 @@
 # bits
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L7
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: number-->
 No documentation found.

@@ -1,4 +1,5 @@
 # ConsoleCommandArgumentParse
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command_argument.lua#L39-L70
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: text-->
 No documentation found.

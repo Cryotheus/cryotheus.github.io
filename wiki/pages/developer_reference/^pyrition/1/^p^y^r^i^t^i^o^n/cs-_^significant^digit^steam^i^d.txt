@@ -1,4 +1,5 @@
 # _SignificantDigitSteamID
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/convention.lua#L10-L18
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: steam_id-->
 No documentation found.

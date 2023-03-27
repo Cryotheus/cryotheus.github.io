@@ -1,4 +1,5 @@
 # NetStreamSend
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L1002-L1021
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: stream-->
 No documentation found.

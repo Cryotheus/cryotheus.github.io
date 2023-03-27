@@ -1,4 +1,3 @@
 # Ceil
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L114-L120
-TAGS: cs-->
-No documentation found.
+Round the vector up to the nearest integer.
+This modifies the vector.

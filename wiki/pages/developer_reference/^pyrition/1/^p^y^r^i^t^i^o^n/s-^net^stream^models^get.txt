@@ -1,4 +1,5 @@
 # NetStreamModelsGet
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/server.lua#L24-L34
-TAGS: s-->
+TAGS: s
+ARGUMENTS: class ply-->
 No documentation found.

@@ -1,4 +1,5 @@
 # SetLength
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L255
-TAGS: cs-->
-No documentation found.
+Sets the vector's length.
+This modifies the vector.
+TYPES: number
+RETURNS: Vector

@@ -1,4 +1,5 @@
 # _drint
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/shared.lua#L85-L89
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: level ...-->
 No documentation found.

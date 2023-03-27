@@ -1,4 +1,5 @@
 # utf8_safe
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/string.lua#L30
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: text limit-->
 No documentation found.

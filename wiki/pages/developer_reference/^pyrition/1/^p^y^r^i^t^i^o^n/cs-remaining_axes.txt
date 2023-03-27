@@ -1,4 +1,5 @@
 # remaining_axes
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L20-L24
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: axis-->
 No documentation found.

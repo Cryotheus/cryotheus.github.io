@@ -1,4 +1,2 @@
 # CubeIntersectTarget
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L184-L210
-TAGS: cs-->
-No documentation found.
+Find a bounds intersection from the vector given a target and bounds.

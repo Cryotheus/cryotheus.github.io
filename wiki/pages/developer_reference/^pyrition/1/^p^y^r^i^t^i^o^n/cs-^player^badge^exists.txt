@@ -1,4 +1,5 @@
 # PlayerBadgeExists
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L136
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: class-->
 No documentation found.

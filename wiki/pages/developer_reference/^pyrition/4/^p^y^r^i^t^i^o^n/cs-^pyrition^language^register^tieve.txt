@@ -1,4 +1,5 @@
 # PyritionLanguageRegisterTieve
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L329-L334
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: tieve_function ...-->
 No documentation found.

@@ -1,4 +1,3 @@
 # UIFontRegister
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/font.lua#L70-L76
-TAGS: c-->
-No documentation found.
+Register a scalable font.
+Use the font on the panel by calling `panel:SetNecrosisFont(key)`.

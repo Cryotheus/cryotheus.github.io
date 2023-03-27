@@ -1,4 +1,5 @@
 # _GlobalifyName
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/convention.lua#L2-L8
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: local_name-->
 No documentation found.

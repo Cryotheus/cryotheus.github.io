@@ -1,4 +1,5 @@
 # DifficultyGet
 <!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/shared.lua#L6
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: class_or_index-->
 No documentation found.

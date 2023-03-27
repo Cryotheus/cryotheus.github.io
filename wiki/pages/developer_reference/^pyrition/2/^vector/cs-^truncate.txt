@@ -1,4 +1,5 @@
 # Truncate
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L266-L274
-TAGS: cs-->
-No documentation found.
+TYPES: number=0
+RETURNS: Vector
+Round components towards zero.
+This modifies the vector.

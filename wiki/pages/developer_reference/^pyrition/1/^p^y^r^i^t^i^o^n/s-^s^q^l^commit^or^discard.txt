@@ -1,4 +1,5 @@
 # SQLCommitOrDiscard
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L162-L168
-TAGS: s-->
+TAGS: s
+ARGUMENTS: completion_callback-->
 No documentation found.

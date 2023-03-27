@@ -1,4 +1,5 @@
 # PlayerBadgeIncrement
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L174-L180
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: ply class increment-->
 No documentation found.

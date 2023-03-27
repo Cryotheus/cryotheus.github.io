@@ -1,4 +1,5 @@
 # IncrementLevel
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L57
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: increment-->
 No documentation found.

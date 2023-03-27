@@ -1,4 +1,5 @@
 # OnScreenSizeChanged
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/font.lua#L55-L68
-TAGS: c-->
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/font.lua#L36-L49
+TAGS: c
+ARGUMENTS: _old_width _old_height-->
 No documentation found.

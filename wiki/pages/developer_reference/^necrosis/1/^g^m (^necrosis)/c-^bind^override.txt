@@ -1,4 +1,5 @@
 # BindOverride
 <!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/bind/client.lua#L63-L74
-TAGS: c-->
+TAGS: c
+ARGUMENTS: code command-->
 No documentation found.

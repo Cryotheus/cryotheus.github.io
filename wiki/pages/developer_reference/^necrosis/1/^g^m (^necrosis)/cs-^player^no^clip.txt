@@ -1,4 +1,5 @@
 # PlayerNoClip
 <!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/shared.lua#L2-L7
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: ply desire-->
 No documentation found.

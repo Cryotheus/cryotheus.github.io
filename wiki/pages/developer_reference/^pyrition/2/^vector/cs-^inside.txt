@@ -1,4 +1,2 @@
 # Inside
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L235
-TAGS: cs-->
-No documentation found.
+Returns true if the point is contained by the two vectors (specifying bounds) (excludes surfaces)

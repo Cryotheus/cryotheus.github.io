@@ -1,4 +1,5 @@
 # WriteByte
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L626-L639
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: byte-->
 No documentation found.

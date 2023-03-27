@@ -1,4 +1,5 @@
 # PyritionPlayerFind
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/find.lua#L87-L154
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: needle supplicant single exclude_supplicant allow_empty-->
 No documentation found.

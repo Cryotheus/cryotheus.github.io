@@ -1,4 +1,5 @@
 # LanguageQueue
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/client.lua#L17
-TAGS: c-->
+TAGS: c
+ARGUMENTS: _ply key phrases option-->
 No documentation found.

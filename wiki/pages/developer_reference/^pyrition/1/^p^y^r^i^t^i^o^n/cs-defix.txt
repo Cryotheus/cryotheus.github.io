@@ -1,4 +1,5 @@
 # defix
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/shared.lua#L7-L13
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: map-->
 No documentation found.

@@ -1,4 +1,5 @@
 # GlobalHookConvert
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/hook.lua#L29-L34
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: key post immediate-->
 No documentation found.

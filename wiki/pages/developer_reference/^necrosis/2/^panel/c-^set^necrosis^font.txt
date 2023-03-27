@@ -1,4 +1,2 @@
 # SetNecrosisFont
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/font.lua#L30
-TAGS: c-->
-No documentation found.
+Sets the scalable font of the panel and adds it to the panel tracker. This font will be updated when the screen size changes.

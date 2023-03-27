@@ -1,4 +1,5 @@
 # GFXMaterialDesignCreate
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gfx/material_design.lua#L11-L96
-TAGS: c-->
+TAGS: c
+ARGUMENTS: icon_name size-->
 No documentation found.

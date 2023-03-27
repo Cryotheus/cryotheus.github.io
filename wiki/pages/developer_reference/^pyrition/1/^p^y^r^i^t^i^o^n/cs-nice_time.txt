@@ -1,4 +1,5 @@
 # nice_time
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/time.lua#L41-L74
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: seconds recursions use_grammar thresholds units unit_seperator block_seperator-->
 No documentation found.

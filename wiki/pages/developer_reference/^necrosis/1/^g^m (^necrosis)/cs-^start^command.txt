@@ -1,4 +1,5 @@
 # StartCommand
 <!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/sprint.lua#L2-L13
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: ply command-->
 No documentation found.

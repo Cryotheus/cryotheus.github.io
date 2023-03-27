@@ -1,4 +1,5 @@
 # WriteEnumeratedString
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L655-L668
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: namespace text recipients-->
 No documentation found.

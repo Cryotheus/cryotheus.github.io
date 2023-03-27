@@ -1,4 +1,5 @@
 # SetZeroes
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L256
-TAGS: cs-->
-No documentation found.
+TYPES: number
+RETURNS: Vector
+Sets all components of zero to the sepcified amount.
+Unlike GetZeroed, this modifies the vector.

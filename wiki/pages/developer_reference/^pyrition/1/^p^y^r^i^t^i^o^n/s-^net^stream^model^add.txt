@@ -1,4 +1,5 @@
 # NetStreamModelAdd
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/server.lua#L9-L22
-TAGS: s-->
+TAGS: s
+ARGUMENTS: class target post ...-->
 No documentation found.

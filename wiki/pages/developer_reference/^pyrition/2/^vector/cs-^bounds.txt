@@ -1,4 +1,2 @@
 # Bounds
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L96-L112
-TAGS: cs-->
-No documentation found.
+Returns a minimum position and maximum position between two vectors.

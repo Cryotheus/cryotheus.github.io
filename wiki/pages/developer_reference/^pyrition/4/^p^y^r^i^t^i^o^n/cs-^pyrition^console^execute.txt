@@ -1,4 +1,5 @@
 # PyritionConsoleExecute
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L80-L86
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: executor _arguments-->
 No documentation found.

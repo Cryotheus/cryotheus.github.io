@@ -1,4 +1,3 @@
 # MultiBounds
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L237-L253
-TAGS: cs-->
-No documentation found.
+TYPES: Vector
+RETURNS: Vector, Vector

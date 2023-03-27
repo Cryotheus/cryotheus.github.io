@@ -1,4 +1,5 @@
 # WriteShort
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L707-L710
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: short-->
 No documentation found.

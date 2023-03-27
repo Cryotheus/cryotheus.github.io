@@ -1,4 +1,5 @@
 # MapDisable
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L64
-TAGS: s-->
+TAGS: s
+ARGUMENTS: map_name-->
 No documentation found.

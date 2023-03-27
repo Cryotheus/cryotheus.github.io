@@ -1,4 +1,5 @@
 # PlayerCredationGet
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/credation.lua#L20
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: ply-->
 No documentation found.

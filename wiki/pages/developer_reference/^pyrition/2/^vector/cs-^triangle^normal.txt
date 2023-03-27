@@ -1,4 +1,4 @@
 # TriangleNormal
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L258-L264
-TAGS: cs-->
-No documentation found.
+TYPES: Vector, Vector
+RETURNS: Vector
+Given two additional points, returns the normal of the created triangle.

@@ -1,4 +1,5 @@
 # CompileBezier
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L57-L87
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: point_count-->
 No documentation found.

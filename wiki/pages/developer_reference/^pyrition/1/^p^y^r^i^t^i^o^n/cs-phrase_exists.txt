@@ -1,4 +1,5 @@
 # phrase_exists
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L91-L95
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: key-->
 No documentation found.

@@ -1,4 +1,5 @@
 # UIFontAddPanel
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/font.lua#L33-L53
-TAGS: c-->
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/font.lua#L51-L71
+TAGS: c
+ARGUMENTS: panel key-->
 No documentation found.

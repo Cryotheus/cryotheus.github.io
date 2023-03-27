@@ -1,4 +1,5 @@
 # Clamp
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L122-L136
-TAGS: cs-->
-No documentation found.
+Clamp the vector's components to a minimum and maximum value.
+If provided numbers, the vector's components will be clamped to those numbers.
+If provided vectors, the vector's components will be clamped to the corresponding component of the vector.
+This modifies the vector.

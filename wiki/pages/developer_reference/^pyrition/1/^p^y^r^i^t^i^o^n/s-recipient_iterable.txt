@@ -1,4 +1,5 @@
 # recipient_iterable
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L46-L53
-TAGS: s-->
+TAGS: s
+ARGUMENTS: object-->
 No documentation found.

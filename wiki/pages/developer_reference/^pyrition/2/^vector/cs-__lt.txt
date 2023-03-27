@@ -1,4 +1,5 @@
 # __lt
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L84
-TAGS: cs-->
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L88
+TAGS: cs
+ARGUMENTS: right-->
 No documentation found.

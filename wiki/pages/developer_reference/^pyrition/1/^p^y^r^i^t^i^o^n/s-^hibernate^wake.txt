@@ -1,4 +1,5 @@
 # HibernateWake
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/hibernate.lua#L30
-TAGS: s-->
+TAGS: s
+ARGUMENTS: key-->
 No documentation found.

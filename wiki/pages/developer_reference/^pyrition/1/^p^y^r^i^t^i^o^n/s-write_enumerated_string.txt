@@ -1,4 +1,5 @@
 # write_enumerated_string
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L86-L96
-TAGS: s-->
+TAGS: s
+ARGUMENTS: namespace text recipients-->
 No documentation found.

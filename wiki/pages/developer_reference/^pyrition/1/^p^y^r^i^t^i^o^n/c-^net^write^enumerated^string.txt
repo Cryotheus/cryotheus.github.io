@@ -1,4 +1,5 @@
 # NetWriteEnumeratedString
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L51-L61
-TAGS: c-->
+TAGS: c
+ARGUMENTS: namespace text-->
 No documentation found.

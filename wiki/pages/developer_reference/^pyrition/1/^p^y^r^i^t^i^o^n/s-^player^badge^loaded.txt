@@ -1,4 +1,5 @@
 # PlayerBadgeLoaded
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L9
-TAGS: s-->
+TAGS: s
+ARGUMENTS: ply class level-->
 No documentation found.

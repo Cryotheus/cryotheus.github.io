@@ -1,4 +1,5 @@
 # WriteVector
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L842-L846
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: vector-->
 No documentation found.

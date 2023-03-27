@@ -1,4 +1,3 @@
 # Floor
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L214-L220
-TAGS: cs-->
-No documentation found.
+Round the vector down to the nearest integer.
+This modifies the vector.

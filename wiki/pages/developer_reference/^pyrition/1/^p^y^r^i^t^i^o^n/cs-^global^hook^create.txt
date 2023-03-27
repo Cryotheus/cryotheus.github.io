@@ -1,4 +1,5 @@
 # GlobalHookCreate
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/hook.lua#L36-L40
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: key post-->
 No documentation found.

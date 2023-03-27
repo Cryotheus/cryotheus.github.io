@@ -1,4 +1,5 @@
 # ReadMaybe
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L457
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: method ...-->
 No documentation found.

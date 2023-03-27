@@ -1,4 +1,5 @@
 # PyritionNetAddEnumeratedString
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L201-L238
-TAGS: s-->
+TAGS: s
+ARGUMENTS: namespace ...-->
 No documentation found.

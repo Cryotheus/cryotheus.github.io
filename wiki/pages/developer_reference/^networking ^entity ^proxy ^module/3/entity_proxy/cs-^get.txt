@@ -1,4 +1,5 @@
 # Get
 <!--META!SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L311-L320
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: namespace entity_index timeout-->
 No documentation found.

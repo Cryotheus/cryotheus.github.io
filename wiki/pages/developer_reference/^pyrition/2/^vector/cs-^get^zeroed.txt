@@ -1,4 +1,4 @@
 # GetZeroed
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L234
-TAGS: cs-->
-No documentation found.
+TYPES: number
+RETURNS: Vector
+Returns a vector with all components of zero set to the sepcified amount.

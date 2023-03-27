@@ -1,4 +1,4 @@
 # GetAxis
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L222-L232
-TAGS: cs-->
-No documentation found.
+TYPES: number=0.99
+RETURNS: boolean
+Returns the closest axis a UNIT VECTOR is aligned to, or false if it was not greater than intolerance (default of 0.99)

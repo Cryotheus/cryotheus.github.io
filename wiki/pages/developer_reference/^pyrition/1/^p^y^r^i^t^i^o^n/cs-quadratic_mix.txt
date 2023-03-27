@@ -1,4 +1,5 @@
 # quadratic_mix
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gradient.lua#L29-L39
-TAGS: cs-->
+TAGS: cs
+ARGUMENTS: fraction alpha bravo-->
 No documentation found.

@@ -1,4 +1,5 @@
 # recipient_pairs
 <!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L55-L61
-TAGS: s-->
+TAGS: s
+ARGUMENTS: recipients-->
 No documentation found.
