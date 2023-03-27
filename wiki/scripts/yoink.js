@@ -1,6 +1,7 @@
 let current_request
 let page = new URLSearchParams(document.location.search).get("page")
 let pagecontent = document.getElementById("pagecontent")
+let pagefooter = document.getElementById("pagefooter")
 let sidebarbutton = document.getElementById("sidebarbutton")
 
 let tag_classes = {
@@ -82,7 +83,7 @@ window.Yoink = {
 		let request = new XMLHttpRequest()
 		current_request = request
 		pagecontent.innerHTML = '<md-block>\n# Loading...\n</md-block>'
-
+		pagefooter.innerText = 'Loading...'
 		//pagecontent.append()
 		request.onabort = function() {current_request = false}
 		request.onerror = function() {current_request = false}
@@ -100,6 +101,8 @@ window.Yoink = {
 					let metadata
 					let meta_list
 					let response = request.responseText
+
+					pagefooter.innerText = 'Loaded ' + response.length + ' bytes of documentation.'
 
 					response.replace(/<!--META!\s*([^]*)-->/, (match, capture) => {
 						metadata = {}
