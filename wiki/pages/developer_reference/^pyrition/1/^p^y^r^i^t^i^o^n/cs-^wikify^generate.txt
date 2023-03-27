@@ -1,4 +1,4 @@
 # WikifyGenerate
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L322-L405
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L330-L413
 TAGS: cs-->
 No documentation found.

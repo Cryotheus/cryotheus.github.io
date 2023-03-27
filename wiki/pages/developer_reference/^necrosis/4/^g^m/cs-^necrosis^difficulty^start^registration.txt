@@ -1,0 +1,2 @@
+# NecrosisDifficultyStartRegistration
+This hook is called before the difficulties are registered.

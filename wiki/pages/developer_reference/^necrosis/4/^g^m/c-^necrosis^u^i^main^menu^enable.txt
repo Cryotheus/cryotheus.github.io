@@ -1,0 +1,4 @@
+# NecrosisUIMainMenuEnable
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/main_menu.lua#L26-L33
+TAGS: c-->
+No documentation found.

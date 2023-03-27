@@ -1,0 +1,4 @@
+# NecrosisUIMainMenuSetSkyMaterial
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/main_menu.lua#L41-L50
+TAGS: c-->
+No documentation found.

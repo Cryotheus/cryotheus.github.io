@@ -1,0 +1,4 @@
+# Initialize
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/client.lua#L2-L5
+TAGS: c-->
+No documentation found.

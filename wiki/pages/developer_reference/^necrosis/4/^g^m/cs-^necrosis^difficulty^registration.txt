@@ -1,0 +1,3 @@
+# NecrosisDifficultyRegistration
+This hook is called by NecrosisDifficultyStartRegistration to register the difficulties.
+Make sure you do not return anything that might stop the hook.

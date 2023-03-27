@@ -1,0 +1,4 @@
+# PlayerBindPress
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/bind/client.lua#L116-L131
+TAGS: c-->
+No documentation found.

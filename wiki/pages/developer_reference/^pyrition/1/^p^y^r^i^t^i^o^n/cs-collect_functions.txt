@@ -1,0 +1,4 @@
+# collect_functions
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L34-L42
+TAGS: cs-->
+No documentation found.

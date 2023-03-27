@@ -1,0 +1,4 @@
+# WikifyCollectHooks
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L312-L328
+TAGS: cs-->
+No documentation found.

@@ -1,0 +1,4 @@
+# NecrosisPlaying
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/meta.lua#L5-L9
+TAGS: cs-->
+No documentation found.

@@ -1,0 +1,4 @@
+# SetNecrosisFont
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/font.lua#L30
+TAGS: c-->
+No documentation found.

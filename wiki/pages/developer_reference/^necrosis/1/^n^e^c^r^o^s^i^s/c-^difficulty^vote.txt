@@ -1,0 +1,2 @@
+# DifficultyVote
+Runs the internal server command to cast a difficulty vote, and caches the client's choice.

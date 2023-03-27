@@ -1,0 +1,4 @@
+# HookMethod
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/global/hook.lua#L2-L7
+TAGS: cs-->
+No documentation found.

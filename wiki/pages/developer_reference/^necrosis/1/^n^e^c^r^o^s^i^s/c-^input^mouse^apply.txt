@@ -1,0 +1,4 @@
+# InputMouseApply
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/flip.lua#L49-L89
+TAGS: c-->
+No documentation found.

@@ -1,4 +1,4 @@
 # WikifyCollectFunctions
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L232-L320
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L222-L310
 TAGS: cs-->
 No documentation found.

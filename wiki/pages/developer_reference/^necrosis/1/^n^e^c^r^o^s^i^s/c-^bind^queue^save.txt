@@ -1,0 +1,4 @@
+# BindQueueSave
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/bind/client.lua#L76-L85
+TAGS: c-->
+No documentation found.
