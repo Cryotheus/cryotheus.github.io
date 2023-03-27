@@ -6,59 +6,59 @@
 /playing/Necrosis/1/Necrosis.md
 /playing/Pyrition/1/Pyrition.md
 /playing/Pyrition/2/Pyrition Setup.md
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^bind^load.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^bind^override.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^bind^queue^save.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^bind^restore.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^bind^save.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^calc^view.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^con^var^mirror.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^difficulty^vote.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^init^post^entity.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^initialize.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^input^mouse^apply.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^network^entity^created.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^on^screen^size^changed.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^player^bind^press.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^show^help.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^show^team.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^shut^down.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^u^i^font^add^panel.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/c-^u^i^font^register.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/cs-^create^teams.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/cs-^difficulty^get.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/cs-^hook^method.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/cs-^player^no^clip.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/cs-^shared^initialize.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/cs-^start^command.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/cs-^wikify.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^difficulty^evaluate^votes.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^difficulty^queue^update.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^difficulty^reset.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^difficulty^set.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^difficulty^vote.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^do^player^death.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^initialize.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^player^death.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^player^death^think.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^player^disconnected.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^player^initial^spawn.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^player^spawn.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^player^use.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^players^playing^list.txt
-/developer_reference/^necrosis/1/^n^e^c^r^o^s^i^s/s-^show^team.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^bind^load.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^bind^override.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^bind^queue^save.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^bind^restore.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^bind^save.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^calc^view.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^con^var^mirror.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^difficulty^vote.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^init^post^entity.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^initialize.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^input^mouse^apply.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^network^entity^created.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^on^screen^size^changed.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^player^bind^press.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^show^help.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^show^team.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^shut^down.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^u^i^font^add^panel.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^u^i^font^register.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^create^teams.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^difficulty^get.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^hook^method.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^player^no^clip.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^shared^initialize.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^start^command.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^wikify.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^difficulty^evaluate^votes.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^difficulty^queue^update.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^difficulty^reset.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^difficulty^set.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^difficulty^vote.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^do^player^death.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^initialize.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^death.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^death^think.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^disconnected.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^initial^spawn.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^spawn.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^use.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^players^playing^list.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^show^team.txt
 /developer_reference/^necrosis/2/^panel/c-^set^necrosis^font.txt
 /developer_reference/^necrosis/2/^player/cs-^necrosis^dropping^in.txt
 /developer_reference/^necrosis/2/^player/cs-^necrosis^playing.txt
-/developer_reference/^necrosis/4/^g^m/c-^necrosis^difficulty^vote^count^changed.txt
-/developer_reference/^necrosis/4/^g^m/c-^necrosis^u^i^main^menu^disable.txt
-/developer_reference/^necrosis/4/^g^m/c-^necrosis^u^i^main^menu^enable.txt
-/developer_reference/^necrosis/4/^g^m/c-^necrosis^u^i^main^menu^open.txt
-/developer_reference/^necrosis/4/^g^m/c-^necrosis^u^i^main^menu^set^sky^material.txt
-/developer_reference/^necrosis/4/^g^m/cs-^necrosis^difficulty^registration.txt
-/developer_reference/^necrosis/4/^g^m/cs-^necrosis^difficulty^start^registration.txt
-/developer_reference/^necrosis/4/^g^m/s-^necrosis^player^spawn^as^spectator.txt
-/developer_reference/^necrosis/4/^g^m/s-^necrosis^player^spawn^as^survivor.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^difficulty^vote^count^changed.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^u^i^main^menu^disable.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^u^i^main^menu^enable.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^u^i^main^menu^open.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^u^i^main^menu^set^sky^material.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/cs-^necrosis^difficulty^registration.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/cs-^necrosis^difficulty^start^registration.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^player^spawn^as^spectator.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^player^spawn^as^survivor.txt
 /developer_reference/^networking ^entity ^proxy ^module/3/entity_proxy/cs-^clear.txt
 /developer_reference/^networking ^entity ^proxy ^module/3/entity_proxy/cs-^create.txt
 /developer_reference/^networking ^entity ^proxy ^module/3/entity_proxy/cs-^create^internal.txt
