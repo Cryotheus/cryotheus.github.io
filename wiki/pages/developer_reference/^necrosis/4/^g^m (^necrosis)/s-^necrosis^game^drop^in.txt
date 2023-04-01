@@ -1,0 +1,2 @@
+# NecrosisGameDropIn
+Called when a player attempts to drop in.

@@ -1,0 +1,2 @@
+# NecrosisGameWin
+Called when we are about to start the winning sequence.

@@ -1,0 +1,2 @@
+# NecrosisGameStart
+Called to start the game.

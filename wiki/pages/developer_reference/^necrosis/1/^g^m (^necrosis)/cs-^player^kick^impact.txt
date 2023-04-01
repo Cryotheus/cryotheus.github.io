@@ -1,0 +1,4 @@
+# PlayerKickImpact
+PREDICTED
+Calls the appropriate kick impact function based on the entity and position.
+This can call PlayerKickImpactEntity, PlayerKickImpactMissed, or PlayerKickImpactWorld.

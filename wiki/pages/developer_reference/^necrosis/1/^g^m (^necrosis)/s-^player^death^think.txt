@@ -1,5 +1,5 @@
 # PlayerDeathThink
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L69-L89
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L96-L116
 TAGS: s
 ARGUMENTS: ply-->
 No documentation found.

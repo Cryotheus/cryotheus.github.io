@@ -1,0 +1,5 @@
+# collect_multiple
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L44-L51
+TAGS: cs
+ARGUMENTS: ...-->
+No documentation found.

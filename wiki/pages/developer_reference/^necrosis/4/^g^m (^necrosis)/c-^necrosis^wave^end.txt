@@ -1,0 +1,2 @@
+# NecrosisWaveEnd
+Called when the wave ends.

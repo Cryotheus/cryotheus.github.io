@@ -1,0 +1,4 @@
+# NecrosisGameWon
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server_hooks.lua#L7
+TAGS: s-->
+No documentation found.

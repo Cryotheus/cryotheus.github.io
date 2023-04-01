@@ -1,5 +1,2 @@
 # NecrosisDifficultyVoteCountChanged
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/client.lua#L17
-TAGS: c
-ARGUMENTS: _vote_counts-->
-No documentation found.
+For hooking.

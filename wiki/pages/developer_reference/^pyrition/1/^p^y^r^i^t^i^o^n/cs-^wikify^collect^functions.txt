@@ -1,5 +1,5 @@
 # WikifyCollectFunctions
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L224-L312
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L253-L341
 TAGS: cs
 ARGUMENTS: function_list-->
 No documentation found.

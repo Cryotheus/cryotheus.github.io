@@ -1,5 +1,5 @@
 # PlayerInitialSpawn
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L93-L96
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L120-L123
 TAGS: s
 ARGUMENTS: ply-->
 No documentation found.

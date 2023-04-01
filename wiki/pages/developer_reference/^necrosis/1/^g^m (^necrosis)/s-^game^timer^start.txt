@@ -1,0 +1,5 @@
+# GameTimerStart
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/timer/server.lua#L12-L20
+TAGS: s
+ARGUMENTS: delay-->
+No documentation found.

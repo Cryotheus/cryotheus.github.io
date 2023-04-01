@@ -1,0 +1,5 @@
+# GetPlayerClassNWField
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/shared.lua#L10-L20
+TAGS: cs
+ARGUMENTS: field field_type-->
+No documentation found.

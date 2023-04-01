@@ -1,4 +1,4 @@
 # IsPlayerOrWorld
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/shared.lua#L6
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/shared.lua#L23
 TAGS: cs-->
 No documentation found.

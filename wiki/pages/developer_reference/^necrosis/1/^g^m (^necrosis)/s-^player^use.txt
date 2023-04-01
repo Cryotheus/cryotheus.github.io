@@ -1,5 +1,5 @@
 # PlayerUse
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L127
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L154
 TAGS: s
 ARGUMENTS: ply _entity-->
 No documentation found.

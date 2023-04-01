@@ -1,0 +1,2 @@
+# NecrosisGameFinish
+Called when the game is finished.

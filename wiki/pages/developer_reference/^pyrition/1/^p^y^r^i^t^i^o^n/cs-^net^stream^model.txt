@@ -1,5 +1,5 @@
 # NetStreamModel
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L62-L75
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L63-L76
 TAGS: cs
 ARGUMENTS: stream-->
 No documentation found.

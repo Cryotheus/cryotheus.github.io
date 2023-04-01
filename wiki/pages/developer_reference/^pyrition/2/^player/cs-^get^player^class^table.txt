@@ -1,0 +1,4 @@
+# GetPlayerClassTable
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/shared.lua#L22
+TAGS: cs-->
+No documentation found.

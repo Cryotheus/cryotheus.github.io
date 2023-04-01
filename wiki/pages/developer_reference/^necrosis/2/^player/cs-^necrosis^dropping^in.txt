@@ -1,4 +1,2 @@
 # NecrosisDroppingIn
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/meta.lua#L11
-TAGS: cs-->
-No documentation found.
+Spectating, and still waiting to drop in.

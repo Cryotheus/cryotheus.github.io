@@ -1,0 +1,4 @@
+# GetPlayerClass
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/shared.lua#L8
+TAGS: cs-->
+No documentation found.

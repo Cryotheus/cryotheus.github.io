@@ -1,0 +1,5 @@
+# PreRegisterSWEP
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/weapon/shared.lua#L2-L19
+TAGS: cs
+ARGUMENTS: swep _class-->
+No documentation found.

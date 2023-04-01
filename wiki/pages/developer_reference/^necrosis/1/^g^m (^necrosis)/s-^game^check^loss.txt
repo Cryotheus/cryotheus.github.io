@@ -1,0 +1,3 @@
+# GameCheckLoss
+INTERNAL
+Initiate a game over if there are no survivors left.

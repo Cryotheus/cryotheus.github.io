@@ -1,0 +1,2 @@
+# WaveSync
+Calls the NecrosisWaveEnd or NecrosisWaveStart hook.

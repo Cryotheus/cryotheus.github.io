@@ -1,0 +1,2 @@
+# NecrosisPlayerSpawnWaiting
+Spawns in all players who are dropping in.

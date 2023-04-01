@@ -1,5 +1,5 @@
 # PlayerDeath
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L28-L67
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L55-L94
 TAGS: s
 ARGUMENTS: ply inflictor attacker-->
 No documentation found.

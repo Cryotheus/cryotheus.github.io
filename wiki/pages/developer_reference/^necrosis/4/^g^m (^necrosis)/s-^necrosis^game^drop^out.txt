@@ -1,0 +1,2 @@
+# NecrosisGameDropOut
+Called when a player attempts to drop out.

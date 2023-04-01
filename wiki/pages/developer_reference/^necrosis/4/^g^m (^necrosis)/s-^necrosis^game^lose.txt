@@ -1,0 +1,2 @@
+# NecrosisGameLose
+Called when we are about to start the losing sequence.

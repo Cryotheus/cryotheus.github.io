@@ -1,0 +1,5 @@
+# PlayerKickImpactMissed
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/server.lua#L38
+TAGS: s
+ARGUMENTS: ply-->
+No documentation found.

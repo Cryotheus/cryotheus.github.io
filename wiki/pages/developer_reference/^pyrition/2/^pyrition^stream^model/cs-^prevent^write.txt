@@ -1,0 +1,4 @@
+# PreventWrite
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L57
+TAGS: cs-->
+No documentation found.

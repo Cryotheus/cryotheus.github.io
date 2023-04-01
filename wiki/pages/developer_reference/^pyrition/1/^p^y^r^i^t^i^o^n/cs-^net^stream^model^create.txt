@@ -1,5 +1,5 @@
 # NetStreamModelCreate
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L77-L91
+<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L78-L92
 TAGS: cs
 ARGUMENTS: class ply-->
 No documentation found.

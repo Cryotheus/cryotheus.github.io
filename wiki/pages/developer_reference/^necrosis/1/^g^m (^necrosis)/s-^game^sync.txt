@@ -1,0 +1,4 @@
+# GameSync
+<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L35
+TAGS: s-->
+No documentation found.

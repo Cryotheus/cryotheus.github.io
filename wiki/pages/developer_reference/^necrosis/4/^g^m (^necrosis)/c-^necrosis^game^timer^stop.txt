@@ -1,0 +1,2 @@
+# NecrosisGameTimerStop
+For hooking.
