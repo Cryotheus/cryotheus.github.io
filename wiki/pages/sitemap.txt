@@ -14,6 +14,8 @@
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^calc^view.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^con^var^mirror.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^difficulty^vote.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^h^u^d^paint.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^h^u^d^should^draw.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^init^post^entity.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^initialize.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^input^mouse^apply.txt
@@ -26,20 +28,25 @@
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^player^kick^notfiy.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^player^kick^pressed.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^player^kick^released.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^player^team^think.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^pre^draw^effects.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^show^help.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^show^team.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^shut^down.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^u^i^font^add^panel.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^u^i^font^register.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/c-^u^i^main^menu^close.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/c-^wave^sync.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^create^teams.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^difficulty^get.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^entity^emit^sound.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^hook^method.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^player^kick.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^player^kick^impact.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^player^kick^start^command.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^player^kick^trace.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^player^no^clip.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^player^sprint^start^command.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^pre^register^s^w^e^p.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^shared^initialize.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/cs-^start^command.txt
@@ -59,6 +66,20 @@
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^game^timer^stop.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^game^timer^think.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^initialize.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^log.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^generator^bot^finished.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^generator^create^bot.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^generator^finish.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^generator^finished.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^generator^first^think.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^generator^start.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^generator^think.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^get^checksum.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^load.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^path^calculate^distance.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^path^get.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^save.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^navigation^think.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^death.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^death^think.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^disconnected.txt
@@ -67,23 +88,29 @@
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^kick^impact^missed.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^kick^impact^world.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^spawn.txt
+/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^update^lists.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^player^use.txt
-/developer_reference/^necrosis/1/^g^m (^necrosis)/s-^players^playing^list.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^show^team.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^think.txt
 /developer_reference/^necrosis/1/^g^m (^necrosis)/s-^wave^sync.txt
 /developer_reference/^necrosis/2/^panel/c-^set^necrosis^font.txt
 /developer_reference/^necrosis/2/^player/cs-^necrosis^dropping^in.txt
-/developer_reference/^necrosis/2/^player/cs-^necrosis^idle.txt
+/developer_reference/^necrosis/2/^player/cs-^necrosis^is^idle.txt
 /developer_reference/^necrosis/2/^player/cs-^necrosis^is^spectator.txt
 /developer_reference/^necrosis/2/^player/cs-^necrosis^playing.txt
 /developer_reference/^necrosis/2/^player/cs-^necrosis^spectating.txt
+/developer_reference/^necrosis/2/^player/cs-^necrosis^surviving.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^difficulty^vote^count^changed.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^drop^in.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^drop^out.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^finish.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^playing.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^spectate.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^start.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^timer^start.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^timer^stop.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^game^timer^updated.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^player^team^updated.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^u^i^main^menu^disable.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^u^i^main^menu^enable.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/c-^necrosis^u^i^main^menu^open.txt
@@ -99,10 +126,14 @@
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^finished.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^lose.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^lost.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^spectate.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^start.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^started.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^win.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^game^won.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^navigation^initialize.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^navigation^initialized.txt
+/developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^navigation^player^moved.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^player^spawn^as^spectator.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^player^spawn^as^survivor.txt
 /developer_reference/^necrosis/4/^g^m (^necrosis)/s-^necrosis^player^spawn^waiting.txt
@@ -189,7 +220,9 @@
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-^wikify.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-^wikify^collect^functions.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-^wikify^collect^hooks.txt
+/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-^wikify^collect^panels.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-^wikify^generate.txt
+/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-^wikify^register^meta^tag.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-_^globalify^name.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-_^significant^digit^steam^i^d.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/cs-_drint.txt
@@ -234,6 +267,7 @@
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^map^vote.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^map^vote^annul.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^map^vote^retract.txt
+/developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^navigation^setup^timeout.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^net^is^enumerated.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^net^read^enumerated^string.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-^net^stream^model^add.txt
@@ -276,6 +310,7 @@
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-recipient_iterable.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-recipient_pairs.txt
 /developer_reference/^pyrition/1/^p^y^r^i^t^i^o^n/s-write_enumerated_string.txt
+/developer_reference/^pyrition/2/^path^follower/s-^get^deduplicated^segments.txt
 /developer_reference/^pyrition/2/^player/c-^time^connected.txt
 /developer_reference/^pyrition/2/^player/cs-^get^player^class.txt
 /developer_reference/^pyrition/2/^player/cs-^get^player^class^n^w^field.txt
@@ -367,6 +402,7 @@
 /developer_reference/^pyrition/2/^pyrition^stream^model/cs-^write.txt
 /developer_reference/^pyrition/2/^vector/cs-^absolute.txt
 /developer_reference/^pyrition/2/^vector/cs-^absolute^dot.txt
+/developer_reference/^pyrition/2/^vector/cs-^approach.txt
 /developer_reference/^pyrition/2/^vector/cs-^bounds.txt
 /developer_reference/^pyrition/2/^vector/cs-^ceil.txt
 /developer_reference/^pyrition/2/^vector/cs-^clamp.txt
@@ -400,7 +436,10 @@
 /developer_reference/^pyrition/3/duplex/cs-^unset.txt
 /developer_reference/^pyrition/3/language/s-^add.txt
 /developer_reference/^pyrition/3/language/s-^get^phrase.txt
+/developer_reference/^pyrition/3/math/cs-^approach.txt
+/developer_reference/^pyrition/3/math/cs-^approach^p^a.txt
 /developer_reference/^pyrition/3/math/cs-^compile^bezier.txt
+/developer_reference/^pyrition/3/math/cs-^intersection^by^points.txt
 /developer_reference/^pyrition/3/math/cs-^pascal^row.txt
 /developer_reference/^pyrition/3/math/cs-^remap.txt
 /developer_reference/^pyrition/3/math/cs-^sign.txt
@@ -409,6 +448,7 @@
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/c-^pyrition^net^client^initialized.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/c-^pyrition^player^badge^level^changed.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/c-^pyrition^player^storage^register^syncs.txt
+/developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/c-^pyrition^v^g^u^i^register.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/cs-^pyrition^console^command^argument^register.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/cs-^pyrition^console^command^execute.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/cs-^pyrition^console^command^register.txt
@@ -422,6 +462,7 @@
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/cs-^pyrition^net^stream^register^class.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/cs-^pyrition^player^badge^register.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/cs-^pyrition^player^find.txt
+/developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/s-^navigation^setup.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/s-^pyrition^net^add^enumerated^string.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/s-^pyrition^net^player^initialized.txt
 /developer_reference/^pyrition/4/^p^y^r^i^t^i^o^n/s-^pyrition^player^badge^level^changed.txt
