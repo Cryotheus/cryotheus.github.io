@@ -1,0 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/slider.lua#L40-L44
+TAGS: c-->
+# ThinkConVarChanged
+No documentation found.

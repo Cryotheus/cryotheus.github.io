@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: key
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/settings_menu/binds.lua#L180-L207
+TAGS: c-->
+# SetBindPreview
+No documentation found.

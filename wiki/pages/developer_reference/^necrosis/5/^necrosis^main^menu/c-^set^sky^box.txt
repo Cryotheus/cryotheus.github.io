@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: path
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu.lua#L478-L487
+TAGS: c-->
+# SetSkyBox
+No documentation found.

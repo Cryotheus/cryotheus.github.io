@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: key
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/swap_panel.lua#L23-L35
+TAGS: c-->
+# Swap
+No documentation found.

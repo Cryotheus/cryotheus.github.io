@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: key binder
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/settings_menu/binds.lua#L175-L178
+TAGS: c-->
+# RegisterBinder
+No documentation found.

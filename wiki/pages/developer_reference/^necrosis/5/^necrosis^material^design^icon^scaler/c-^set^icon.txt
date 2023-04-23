@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: icon_name
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon_scaler.lua#L31
+TAGS: c-->
+# SetIcon
+No documentation found.

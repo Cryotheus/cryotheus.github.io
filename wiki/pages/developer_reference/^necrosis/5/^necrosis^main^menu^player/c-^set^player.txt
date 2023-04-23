@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: ply
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/player.lua#L40-L45
+TAGS: c-->
+# SetPlayer
+No documentation found.

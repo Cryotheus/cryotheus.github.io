@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: x y
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon_scaler.lua#L39
+TAGS: c-->
+# SetIconFraction
+No documentation found.

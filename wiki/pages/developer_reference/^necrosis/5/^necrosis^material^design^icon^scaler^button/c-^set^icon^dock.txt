@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: dock
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon_scaler_button.lua#L45-L49
+TAGS: c-->
+# SetIconDock
+No documentation found.

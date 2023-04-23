@@ -1,0 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon_scaler_button.lua#L63-L75
+TAGS: c-->
+# UpdateIconColor
+No documentation found.

@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: width height
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/ready_button.lua#L80-L91
+TAGS: c-->
+# PaintButton
+No documentation found.

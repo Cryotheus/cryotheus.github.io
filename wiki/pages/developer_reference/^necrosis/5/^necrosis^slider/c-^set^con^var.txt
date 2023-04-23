@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: variable
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/slider.lua#L15-L26
+TAGS: c-->
+# SetConVar
+No documentation found.

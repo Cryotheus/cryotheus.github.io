@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: width height
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/ruled_header.lua#L21-L24
+TAGS: c-->
+# Paint
+No documentation found.

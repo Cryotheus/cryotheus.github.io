@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: color
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/binder_labeled.lua#L46
+TAGS: c-->
+# SetTextStyleColor
+No documentation found.

@@ -1,0 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/binder.lua#L63-L72
+TAGS: c-->
+# UpdateText
+No documentation found.

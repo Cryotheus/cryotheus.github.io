@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: index
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/difficulty.lua#L138-L155
+TAGS: c-->
+# SetVisibleDifficulty
+No documentation found.

@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: volume
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon_volume.lua#L7
+TAGS: c-->
+# SetVolume
+No documentation found.

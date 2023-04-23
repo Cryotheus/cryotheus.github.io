@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: minimum maximum
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/slider.lua#L28-L31
+TAGS: c-->
+# SetRange
+No documentation found.

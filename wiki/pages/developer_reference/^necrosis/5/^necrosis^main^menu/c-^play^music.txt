@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: sound_path fallback_url
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu.lua#L460-L476
+TAGS: c-->
+# PlayMusic
+No documentation found.

@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: scale
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon_scaler_button.lua#L53-L56
+TAGS: c-->
+# SetIconScale
+No documentation found.

@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: width height
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon_scaler.lua#L22-L29
+TAGS: c-->
+# PerformLayout
+No documentation found.

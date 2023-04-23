@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: volume
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu.lua#L364-L368
+TAGS: c-->
+# MusicVolume
+No documentation found.
