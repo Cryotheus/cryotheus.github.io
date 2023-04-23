@@ -4,35 +4,38 @@ let pagecontent = document.getElementById("pagecontent")
 let pagefooter = document.getElementById("pagefooter")
 let sidebarbutton = document.getElementById("sidebarbutton")
 
-let tag_classes = {
-	c: "rc",
-	d: "depr",
-	i: "intrn",
-	s: "rs",
-}
+function create_function_links_button(md_block, text, href, mdi_icon) {
+	let a = document.createElement("a")
+	a.innerText = text
 
-let tag_functions = {
-	SOURCE: (md_block, value) => {
-		let div = document.createElement("div")
-		let a = document.createElement("a")
-		a.innerText = "View Source"
+	if (href) {
+		a.setAttribute("class", "fl-button")
+		a.setAttribute("href", href)
+	} else {a.setAttribute("class", "fl-info")}
+
+	if (mdi_icon) { //create a span if we have a material design icon
 		let span = document.createElement("span")
-
-		a.setAttribute("href", value)
-		div.setAttribute("class", "function_links")
 		span.setAttribute("class", "iconify")
-		span.setAttribute("data-icon", "mdi:source-branch")
+		span.setAttribute("data-icon", mdi_icon)
 
 		a.insertBefore(span, a.firstChild)
-		div.appendChild(a)
+	}
+
+	md_block.getElementsByClassName
+
+	//attempt to find the existing links bar
+	let div = md_block.getElementsByClassName("function_links")[0]
+
+	if (!div) { //or create it if it doesn't exist
+		div = document.createElement("div")
+		
+		div.setAttribute("class", "function_links")
 		md_block.insertBefore(div, md_block.firstChild)
 	}
-}
 
-let the_wiki = {
-	developer_reference: [],
-	developers: [],
-	playing: [],
+	div.appendChild(a)
+
+	return a
 }
 
 function decode_indicative_case(text) {
@@ -52,6 +55,24 @@ function decode_indicative_case(text) {
 }
 
 function strip_extension(file_name) {return file_name.replace(/\.[^/.]+$/, "")}
+
+let tag_classes = {
+	c: "rc",
+	d: "depr",
+	i: "intrn",
+	s: "rs",
+}
+
+let tag_functions = {
+	OWNER: (md_block, value) => create_function_links_button(md_block, "Owner: " + value, false, "mdi:book"),
+	SOURCE: (md_block, value) => create_function_links_button(md_block, "View Source", value, "mdi:source-branch")
+}
+
+let the_wiki = {
+	developer_reference: [],
+	developers: [],
+	playing: [],
+}
 
 /*
 	<!--META!\s*([^]*)-->
@@ -107,7 +128,7 @@ window.Yoink = {
 					response.replace(/<!--META!\s*([^]*)-->/, (match, capture) => {
 						metadata = {}
 						meta_list = []
-						
+
 						capture.split(/\r?\n/).forEach(line => {
 							let [_, key, value] = line.match(/([^:]+):\s*(.*)/)
 							metadata[key] = value
@@ -132,6 +153,8 @@ window.Yoink = {
 					if (metadata) {
 						meta_list.forEach(key => {
 							let tag_function = tag_functions[key]
+
+							console.log(key, tag_function, metadata[key])
 
 							if (tag_function)
 								tag_function(md_block, metadata[key])
@@ -242,7 +265,7 @@ window.Yoink = {
 
 							if (page_data.___file) {
 								count++
-								
+
 								a.setAttribute("onclick", "window.Yoink.load('pages/" + page_data.___file + "')")
 								a.setAttribute("project", page_data.___project)
 								a.setAttribute("search", page_data.___search)

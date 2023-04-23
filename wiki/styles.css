@@ -220,14 +220,20 @@ md-block > .function_links a {
 	display: flex;
 	line-height: 0;
 	margin-left: 16px;
+	outline: solid 0.18em #ff0101;
 	padding: 15px 8px;
+}
+
+md-block > .function_links a.fl-info {
+	cursor: default;
+	outline: solid 0.115em #ff0101;
 }
 
 md-block > .function_links a:before {
 	display: none;
 }
 
-md-block > .function_links a:hover {
+md-block > .function_links a.fl-button:hover {
 	background-color: #ff0101;
 	color: #fff;
 }
@@ -1844,6 +1850,10 @@ textarea.dropping {
 
 #pagecontent > md-block > :first-child {
 	margin-top: 4rem;
+}
+
+#pagecontent > md-block > .function_links:first-child {
+	margin-top: 2rem;
 }
 
 .grow {
