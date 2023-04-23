@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/shared.lua#L5-L10
+TAGS: cs-->
 # PlayerTimeConnected
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/shared.lua#L5-L10
-TAGS: cs
-ARGUMENTS: ply-->
 No documentation found.

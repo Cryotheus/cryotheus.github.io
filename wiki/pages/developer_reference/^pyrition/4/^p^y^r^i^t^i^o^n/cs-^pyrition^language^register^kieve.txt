@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: kieve_function ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L313-L318
+TAGS: cs-->
 # PyritionLanguageRegisterKieve
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L313-L318
-TAGS: cs
-ARGUMENTS: kieve_function ...-->
 No documentation found.

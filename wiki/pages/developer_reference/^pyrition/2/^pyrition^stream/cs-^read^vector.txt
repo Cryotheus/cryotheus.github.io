@@ -1,4 +1,5 @@
-# ReadVector
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L596
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L596
 TAGS: cs-->
+# ReadVector
 No documentation found.

@@ -1,4 +1,5 @@
-# WaveSync
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wave/server.lua#L25
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wave/server.lua#L25
 TAGS: s-->
+# WaveSync
 No documentation found.

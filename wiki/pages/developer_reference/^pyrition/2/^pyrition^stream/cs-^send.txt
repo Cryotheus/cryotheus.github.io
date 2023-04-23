@@ -1,4 +1,5 @@
-# Send
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L598
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L598
 TAGS: cs-->
+# Send
 No documentation found.

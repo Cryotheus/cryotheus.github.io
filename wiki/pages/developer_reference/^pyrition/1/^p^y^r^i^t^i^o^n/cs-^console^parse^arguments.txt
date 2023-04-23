@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: arguments
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L20-L43
+TAGS: cs-->
 # ConsoleParseArguments
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L20-L43
-TAGS: cs
-ARGUMENTS: arguments-->
 No documentation found.

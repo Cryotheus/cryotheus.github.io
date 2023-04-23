@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: who
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L79
+TAGS: cs-->
 # Sync
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L79
-TAGS: cs
-ARGUMENTS: who-->
 No documentation found.

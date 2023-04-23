@@ -1,4 +1,5 @@
-# read_client
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L17
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L17
 TAGS: cs-->
+# read_client
 No documentation found.

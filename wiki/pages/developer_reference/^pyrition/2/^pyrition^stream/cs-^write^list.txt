@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: items bits method ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L677-L683
+TAGS: cs-->
 # WriteList
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L677-L683
-TAGS: cs
-ARGUMENTS: items bits method ...-->
 No documentation found.

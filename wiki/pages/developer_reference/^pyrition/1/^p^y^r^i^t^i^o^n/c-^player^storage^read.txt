@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: stream ply key
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/client.lua#L5-L23
+TAGS: c-->
 # PlayerStorageRead
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/client.lua#L5-L23
-TAGS: c
-ARGUMENTS: stream ply key-->
 No documentation found.

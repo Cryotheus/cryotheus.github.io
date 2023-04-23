@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L38-L42
+TAGS: s-->
 # PlayerTimeGetSession
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L38-L42
-TAGS: s
-ARGUMENTS: ply-->
 No documentation found.

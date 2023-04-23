@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: axis
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L20-L24
+TAGS: cs-->
 # remaining_axes
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/vector.lua#L20-L24
-TAGS: cs
-ARGUMENTS: axis-->
 No documentation found.

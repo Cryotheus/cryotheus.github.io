@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: who ply key ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L171-L188
+TAGS: s-->
 # PlayerStorageSync
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L171-L188
-TAGS: s
-ARGUMENTS: who ply key ...-->
 No documentation found.

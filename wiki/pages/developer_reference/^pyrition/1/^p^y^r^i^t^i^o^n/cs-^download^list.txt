@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: prefix url_path path_prefix
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/download.lua#L52-L62
+TAGS: cs-->
 # DownloadList
 Downloads all files listed in the page fetched.

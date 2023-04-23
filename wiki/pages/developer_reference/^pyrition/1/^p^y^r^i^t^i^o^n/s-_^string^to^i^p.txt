@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: text
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/ip.lua#L13-L19
+TAGS: s-->
 # _StringToIP
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/ip.lua#L13-L19
-TAGS: s
-ARGUMENTS: text-->
 No documentation found.

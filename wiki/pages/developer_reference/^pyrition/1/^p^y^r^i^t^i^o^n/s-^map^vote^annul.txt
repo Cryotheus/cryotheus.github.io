@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: map_name
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L105-L121
+TAGS: s-->
 # MapVoteAnnul
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L105-L121
-TAGS: s
-ARGUMENTS: map_name-->
 No documentation found.

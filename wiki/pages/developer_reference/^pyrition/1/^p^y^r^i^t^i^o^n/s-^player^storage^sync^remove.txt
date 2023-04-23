@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: who ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L190
+TAGS: s-->
 # PlayerStorageSyncRemove
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L190
-TAGS: s
-ARGUMENTS: who ply-->
 No documentation found.

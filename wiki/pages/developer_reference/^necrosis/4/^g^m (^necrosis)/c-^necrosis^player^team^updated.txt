@@ -1,0 +1,7 @@
+<!--META!ARGUMENTS: ply old_team new_team
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/team/client.lua#L6-L18
+TAGS: c-->
+# NecrosisPlayerTeamUpdated
+Called when the player's team is updated.
+This calls the NecrosisGameDropIn, NecrosisGameDropOut, and NecrosisGameSpectate hooks.

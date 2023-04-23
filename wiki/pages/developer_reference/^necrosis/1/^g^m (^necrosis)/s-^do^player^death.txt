@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply _attacker _damage_info
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L27-L43
+TAGS: s-->
 # DoPlayerDeath
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L10-L26
-TAGS: s
-ARGUMENTS: ply _attacker _damage_info-->
 No documentation found.

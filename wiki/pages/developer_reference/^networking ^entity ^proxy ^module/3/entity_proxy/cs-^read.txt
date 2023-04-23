@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: namespace timeout
+OWNER: Networking Entity Proxy Module
+SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L323
+TAGS: cs-->
 # Read
-<!--META!SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L323
-TAGS: cs
-ARGUMENTS: namespace timeout-->
 No documentation found.

@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: arguments_string
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L45-L73
+TAGS: cs-->
 # ConsoleParseString
 Parses the `arguments_string` into a table of arguments.

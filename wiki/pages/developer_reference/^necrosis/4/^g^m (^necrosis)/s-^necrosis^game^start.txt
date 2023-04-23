@@ -1,2 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L103-L114
+TAGS: s-->
 # NecrosisGameStart
 Called to start the game.

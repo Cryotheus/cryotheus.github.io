@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: players
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L289-L304
+TAGS: cs-->
 # LanguageListPlayers
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L289-L304
-TAGS: cs
-ARGUMENTS: players-->
 No documentation found.

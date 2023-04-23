@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: method ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L515-L522
+TAGS: cs-->
 # ReadTerminatedList
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L515-L522
-TAGS: cs
-ARGUMENTS: method ...-->
 No documentation found.

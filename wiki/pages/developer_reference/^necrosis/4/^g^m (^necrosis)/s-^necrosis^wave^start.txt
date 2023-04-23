@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: wave
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wave/server.lua#L17-L23
+TAGS: s-->
 # NecrosisWaveStart
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wave/server.lua#L17-L23
-TAGS: s
-ARGUMENTS: wave-->
 No documentation found.

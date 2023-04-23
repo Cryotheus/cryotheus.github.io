@@ -1,4 +1,5 @@
-# NetRead
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L286-L303
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L286-L303
 TAGS: cs-->
+# NetRead
 No documentation found.

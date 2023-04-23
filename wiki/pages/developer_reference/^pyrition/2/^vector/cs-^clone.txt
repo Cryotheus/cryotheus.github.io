@@ -1,2 +1,5 @@
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L165-L168
+TAGS: cs-->
 # Clone
 Returns a copy of the vector.

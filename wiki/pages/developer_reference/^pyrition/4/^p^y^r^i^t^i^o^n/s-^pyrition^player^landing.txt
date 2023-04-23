@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: target apparitions
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/landing.lua#L161
+TAGS: s-->
 # PyritionPlayerLanding
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/landing.lua#L161
-TAGS: s
-ARGUMENTS: target apparitions-->
 No documentation found.

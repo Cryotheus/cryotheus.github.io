@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: class uid ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L942-L1000
+TAGS: cs-->
 # NetStreamIncoming
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L942-L1000
-TAGS: cs
-ARGUMENTS: class uid ply-->
 No documentation found.

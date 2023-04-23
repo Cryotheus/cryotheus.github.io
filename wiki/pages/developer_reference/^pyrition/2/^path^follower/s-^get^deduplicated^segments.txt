@@ -1,0 +1,5 @@
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/path_follower.lua#L5-L31
+TAGS: s-->
+# GetDeduplicatedSegments
+Same as PathFollower:GetAllSegments, but removes any segments that are in the same area as the previous segment.

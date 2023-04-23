@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: right
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L100-L103
+TAGS: cs-->
 # AbsoluteDot
 Returns the absolute dot product of two vectors.

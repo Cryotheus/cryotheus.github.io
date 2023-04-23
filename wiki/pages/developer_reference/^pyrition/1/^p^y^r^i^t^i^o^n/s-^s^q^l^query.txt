@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: instruction callback error_callback
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L183-L191
+TAGS: s-->
 # SQLQuery
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L183-L191
-TAGS: s
-ARGUMENTS: instruction callback error_callback-->
 No documentation found.

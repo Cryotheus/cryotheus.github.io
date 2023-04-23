@@ -1,3 +1,7 @@
+<!--META!ARGUMENTS: registering
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/shared.lua#L8-L27
+TAGS: cs-->
 # NecrosisDifficultyRegistration
 This hook is called by NecrosisDifficultyStartRegistration to register the difficulties.
 Make sure you do not return anything that might stop the hook.

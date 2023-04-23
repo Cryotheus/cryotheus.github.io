@@ -1,4 +1,7 @@
+<!--META!ARGUMENTS: :duplex value set_value
+OWNER: Pyrition
+RETURNS: 
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L48-L62
+TAGS: cs-->
 # Insert
-TYPES: table, any
-TYPES: table, number, any
-RETURNS: number
+No documentation found.

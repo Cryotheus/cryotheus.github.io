@@ -1,4 +1,5 @@
-# NetStreamThink
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/server.lua#L23-L40
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/server.lua#L23-L40
 TAGS: s-->
+# NetStreamThink
 No documentation found.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: method value ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L690-L696
+TAGS: cs-->
 # WriteMaybe
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L690-L696
-TAGS: cs
-ARGUMENTS: method value ...-->
 No documentation found.

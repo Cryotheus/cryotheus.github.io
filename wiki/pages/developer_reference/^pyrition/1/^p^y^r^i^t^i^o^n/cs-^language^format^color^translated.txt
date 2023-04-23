@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: text phrases
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L270
+TAGS: cs-->
 # LanguageFormatColorTranslated
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L270
-TAGS: cs
-ARGUMENTS: text phrases-->
 No documentation found.

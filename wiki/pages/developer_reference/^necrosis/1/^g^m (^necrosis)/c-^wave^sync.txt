@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: was_active _last_wave _last_wave_type
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wave/client.lua#L12-L24
+TAGS: c-->
 # WaveSync
 Calls the NecrosisWaveEnd or NecrosisWaveStart hook.

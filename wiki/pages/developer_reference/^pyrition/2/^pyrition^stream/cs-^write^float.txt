@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: float
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L670
+TAGS: cs-->
 # WriteFloat
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L670
-TAGS: cs
-ARGUMENTS: float-->
 No documentation found.

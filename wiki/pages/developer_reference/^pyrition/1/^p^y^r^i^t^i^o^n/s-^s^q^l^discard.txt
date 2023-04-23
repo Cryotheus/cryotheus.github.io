@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: routine
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L170-L179
+TAGS: s-->
 # SQLDiscard
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L170-L179
-TAGS: s
-ARGUMENTS: routine-->
 No documentation found.

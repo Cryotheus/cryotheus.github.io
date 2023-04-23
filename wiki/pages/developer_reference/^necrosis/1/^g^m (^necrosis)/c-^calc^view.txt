@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply origin angles fov znear zfar
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/flip.lua#L35-L45
+TAGS: c-->
 # CalcView
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/flip.lua#L35-L45
-TAGS: c
-ARGUMENTS: ply origin angles fov znear zfar-->
 No documentation found.

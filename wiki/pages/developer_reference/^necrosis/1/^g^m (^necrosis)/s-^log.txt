@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: key message
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/log.lua#L2
+TAGS: s-->
+# Log
+No documentation found.

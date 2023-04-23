@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: net_function ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L8
+TAGS: cs-->
 # maybe_read
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L8
-TAGS: cs
-ARGUMENTS: net_function ...-->
 No documentation found.

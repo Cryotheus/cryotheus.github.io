@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: _ply _entity _position
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/client.lua#L21
+TAGS: c-->
 # PlayerKickImpactEntity
 PREDICTED

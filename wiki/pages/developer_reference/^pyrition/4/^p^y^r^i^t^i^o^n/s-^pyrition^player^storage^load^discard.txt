@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L228-L240
+TAGS: s-->
 # PyritionPlayerStorageLoadDiscard
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L228-L240
-TAGS: s
-ARGUMENTS: ply-->
 No documentation found.

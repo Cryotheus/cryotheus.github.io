@@ -1,4 +1,5 @@
-# GFXMaterialDesignRender
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gfx/material_design.lua#L110-L208
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gfx/material_design.lua#L110-L210
 TAGS: c-->
+# GFXMaterialDesignRender
 No documentation found.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: class argument_table
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command_argument.lua#L125-L139
+TAGS: cs-->
 # PyritionConsoleCommandArgumentRegister
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command_argument.lua#L126-L140
-TAGS: cs
-ARGUMENTS: class argument_table-->
 No documentation found.

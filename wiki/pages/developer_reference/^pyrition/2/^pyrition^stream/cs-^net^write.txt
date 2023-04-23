@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: length
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L305-L349
+TAGS: cs-->
 # NetWrite
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L305-L349
-TAGS: cs
-ARGUMENTS: length-->
 No documentation found.

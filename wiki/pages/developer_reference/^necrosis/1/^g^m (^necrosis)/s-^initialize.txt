@@ -1,4 +1,5 @@
-# Initialize
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server.lua#L2
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server.lua#L2
 TAGS: s-->
+# Initialize
 No documentation found.

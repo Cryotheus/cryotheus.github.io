@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: ply
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L101
+TAGS: s-->
+# NecrosisGameSpectate
+No documentation found.

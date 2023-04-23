@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: byte
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L712-L715
+TAGS: cs-->
 # WriteSignedByte
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L712-L715
-TAGS: cs
-ARGUMENTS: byte-->
 No documentation found.

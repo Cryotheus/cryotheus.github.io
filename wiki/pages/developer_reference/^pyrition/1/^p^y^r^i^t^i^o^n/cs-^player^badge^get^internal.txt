@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply class
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L144-L148
+TAGS: cs-->
 # PlayerBadgeGetInternal
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L144-L148
-TAGS: cs
-ARGUMENTS: ply class-->
 No documentation found.

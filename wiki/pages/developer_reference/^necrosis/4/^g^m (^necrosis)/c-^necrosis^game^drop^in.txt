@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: _ply
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/client.lua#L2
+TAGS: c-->
+# NecrosisGameDropIn
+No documentation found.

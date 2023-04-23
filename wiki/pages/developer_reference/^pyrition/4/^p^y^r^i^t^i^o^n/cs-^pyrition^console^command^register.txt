@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: command_path command_table
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L55-L102
+TAGS: cs-->
 # PyritionConsoleCommandRegister
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L55-L102
-TAGS: cs
-ARGUMENTS: command_path command_table-->
 No documentation found.

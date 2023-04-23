@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: panel
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/main_menu.lua#L17
+TAGS: c-->
 # NecrosisUIMainMenuEnable
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/main_menu.lua#L26-L33
-TAGS: c
-ARGUMENTS: panel-->
 No documentation found.

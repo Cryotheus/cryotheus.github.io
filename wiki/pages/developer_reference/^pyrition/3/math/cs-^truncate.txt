@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: number digits
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L146-L152
+TAGS: cs-->
 # Truncate
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L106-L111
-TAGS: cs
-ARGUMENTS: number digits-->
-No documentation found.
+Same as it is in the [Garry's Mod Wiki](https://wiki.facepunch.com/gmod/math.Truncate)

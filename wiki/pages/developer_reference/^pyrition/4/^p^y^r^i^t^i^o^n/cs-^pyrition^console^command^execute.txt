@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: executor command signature_index arguments
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L49-L53
+TAGS: cs-->
 # PyritionConsoleCommandExecute
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L49-L53
-TAGS: cs
-ARGUMENTS: executor command signature_index arguments-->
 No documentation found.

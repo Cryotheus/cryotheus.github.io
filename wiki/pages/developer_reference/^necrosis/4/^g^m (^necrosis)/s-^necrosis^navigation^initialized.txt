@@ -1,0 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/server.lua#L108-L111
+TAGS: s-->
+# NecrosisNavigationInitialized
+Called when the navigation is done being generated.

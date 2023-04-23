@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: value
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L144
+TAGS: cs-->
 # SignBiased
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L104
-TAGS: cs
-ARGUMENTS: value-->
 No documentation found.

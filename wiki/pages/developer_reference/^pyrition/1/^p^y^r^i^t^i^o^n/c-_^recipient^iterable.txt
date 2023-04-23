@@ -1,4 +1,5 @@
-# _RecipientIterable
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L39
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L39
 TAGS: c-->
+# _RecipientIterable
 No documentation found.

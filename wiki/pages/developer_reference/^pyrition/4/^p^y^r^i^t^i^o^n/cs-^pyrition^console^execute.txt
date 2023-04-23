@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: executor _arguments
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L80-L86
+TAGS: cs-->
 # PyritionConsoleExecute
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/shared.lua#L80-L86
-TAGS: cs
-ARGUMENTS: executor _arguments-->
 No documentation found.

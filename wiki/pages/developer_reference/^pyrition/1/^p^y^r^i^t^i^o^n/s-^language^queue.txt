@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply key phrases option
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/server.lua#L34-L57
+TAGS: s-->
 # LanguageQueue
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/server.lua#L34-L57
-TAGS: s
-ARGUMENTS: ply key phrases option-->
 No documentation found.

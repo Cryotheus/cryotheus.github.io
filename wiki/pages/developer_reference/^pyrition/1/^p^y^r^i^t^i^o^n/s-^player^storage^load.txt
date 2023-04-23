@@ -1,3 +1,7 @@
+<!--META!ARGUMENTS: ply key tracker
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L100-L138
+TAGS: s-->
 # PlayerStorageLoad
 Loads a specific storage for the specified player, overwriting any existing data.
 This calls `PlayerStorageLoaded` when finished.

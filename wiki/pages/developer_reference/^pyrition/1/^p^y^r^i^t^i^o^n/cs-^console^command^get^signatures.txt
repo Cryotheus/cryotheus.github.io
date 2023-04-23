@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: command_path
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L25-L28
+TAGS: cs-->
 # ConsoleCommandGetSignatures
 Returns a table of signatures for the given command path string.

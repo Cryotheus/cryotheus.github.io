@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: ply key
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L149-L169
+TAGS: s-->
 # PlayerStorageSave
 Saves a single storage specified by the `ply` and `key`.

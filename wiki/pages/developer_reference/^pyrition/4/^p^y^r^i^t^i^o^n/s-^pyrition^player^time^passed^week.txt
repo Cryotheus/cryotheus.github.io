@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: _ply week_time
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L83-L88
+TAGS: s-->
 # PyritionPlayerTimePassedWeek
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L83-L88
-TAGS: s
-ARGUMENTS: _ply week_time-->
 No documentation found.

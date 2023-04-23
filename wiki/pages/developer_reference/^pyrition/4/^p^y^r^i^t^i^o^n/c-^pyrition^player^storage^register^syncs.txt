@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: key stream_methods
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/client.lua#L26-L43
+TAGS: c-->
 # PyritionPlayerStorageRegisterSyncs
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/client.lua#L26-L43
-TAGS: c
-ARGUMENTS: key stream_methods-->
 No documentation found.

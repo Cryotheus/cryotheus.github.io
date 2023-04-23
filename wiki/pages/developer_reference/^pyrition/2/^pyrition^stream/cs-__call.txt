@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L245
+TAGS: cs-->
 # __call
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L245
-TAGS: cs
-ARGUMENTS: ...-->
 No documentation found.

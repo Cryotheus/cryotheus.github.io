@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: class_or_index
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/client.lua#L5-L14
+TAGS: c-->
 # DifficultyVote
 Runs the internal server command to cast a difficulty vote, and caches the client's choice.

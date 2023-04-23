@@ -1,4 +1,5 @@
-# NetThinkServer
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L125-L187
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L125-L187
 TAGS: s-->
+# NetThinkServer
 No documentation found.

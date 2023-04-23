@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply player_data
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L45-L66
+TAGS: s-->
 # PyritionPlayerStorageLoadedTime
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L45-L66
-TAGS: s
-ARGUMENTS: ply player_data-->
 No documentation found.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: everyone
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L357-L366
+TAGS: s-->
 # PyritionPlayerStorageSaveEveryone
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L357-L366
-TAGS: s
-ARGUMENTS: everyone-->
 No documentation found.

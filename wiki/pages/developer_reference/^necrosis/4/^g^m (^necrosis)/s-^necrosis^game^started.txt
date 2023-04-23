@@ -1,4 +1,5 @@
-# NecrosisGameStarted
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server_hooks.lua#L6
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server_hooks.lua#L6
 TAGS: s-->
+# NecrosisGameStarted
 No documentation found.

@@ -1,5 +1,8 @@
+<!--META!ARGUMENTS: :digits
+OWNER: Pyrition
+RETURNS: 
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L338-L350
+TAGS: cs-->
 # Truncate
-TYPES: number=0
-RETURNS: Vector
 Round components towards zero.
 This modifies the vector.

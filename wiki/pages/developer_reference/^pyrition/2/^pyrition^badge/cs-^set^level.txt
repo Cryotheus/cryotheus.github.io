@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: level initial
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L61-L76
+TAGS: cs-->
 # SetLevel
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L61-L76
-TAGS: cs
-ARGUMENTS: level initial-->
 No documentation found.

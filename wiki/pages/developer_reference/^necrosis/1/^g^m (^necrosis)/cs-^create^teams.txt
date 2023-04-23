@@ -1,4 +1,5 @@
-# CreateTeams
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/team.lua#L2-L14
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/team/shared.lua#L25-L33
 TAGS: cs-->
+# CreateTeams
 No documentation found.

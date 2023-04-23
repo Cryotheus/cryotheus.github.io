@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: amount
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/timer/server.lua#L3
+TAGS: s-->
 # GameTimerIncrement
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/timer/server.lua#L3
-TAGS: s
-ARGUMENTS: amount-->
 No documentation found.

@@ -1,2 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/meta.lua#L8
+TAGS: cs-->
 # NecrosisDroppingIn
 Spectating, and still waiting to drop in.

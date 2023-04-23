@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: color ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L306-L311
+TAGS: cs-->
 # PyritionLanguageRegisterColor
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L306-L311
-TAGS: cs
-ARGUMENTS: color ...-->
 No documentation found.

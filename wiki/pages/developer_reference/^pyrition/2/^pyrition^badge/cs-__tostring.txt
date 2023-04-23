@@ -1,4 +1,5 @@
-# __tostring
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L28-L33
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L28-L33
 TAGS: cs-->
+# __tostring
 No documentation found.

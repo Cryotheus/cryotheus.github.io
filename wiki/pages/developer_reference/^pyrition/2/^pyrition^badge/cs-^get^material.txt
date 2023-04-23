@@ -1,4 +1,5 @@
-# GetMaterial
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L56
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L56
 TAGS: cs-->
+# GetMaterial
 No documentation found.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: _ply
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L135
+TAGS: s-->
 # PlayerDisconnected
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L118
-TAGS: s
-ARGUMENTS: _ply-->
 No documentation found.

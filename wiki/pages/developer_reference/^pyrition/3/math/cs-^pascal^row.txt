@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: line
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L128-L135
+TAGS: cs-->
 # PascalRow
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L89-L96
-TAGS: cs
-ARGUMENTS: line-->
 No documentation found.

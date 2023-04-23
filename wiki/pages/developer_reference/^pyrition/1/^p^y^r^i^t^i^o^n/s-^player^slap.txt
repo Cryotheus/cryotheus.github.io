@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply noise damage force
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/slap.lua#L15-L54
+TAGS: s-->
 # PlayerSlap
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/slap.lua#L15-L54
-TAGS: s
-ARGUMENTS: ply noise damage force-->
 No documentation found.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: class badge base_class
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L232-L259
+TAGS: cs-->
 # PyritionPlayerBadgeRegister
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L232-L259
-TAGS: cs
-ARGUMENTS: class badge base_class-->
 No documentation found.

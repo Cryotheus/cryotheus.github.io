@@ -1,5 +1,7 @@
+<!--META!ARGUMENTS: :key state
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/hibernate.lua#L15-L31
+TAGS: s-->
 # Hibernate
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/hibernate.lua#L15-L28
-TAGS: s
-ARGUMENTS: key state-->
-No documentation found.
+Disables hibernation thinking once this has been called for all keys.
+Setting state to false (not nil!) is the same as calling HibernateWake.

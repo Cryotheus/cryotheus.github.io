@@ -1,0 +1,5 @@
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/navigation.lua#L12-L30
+TAGS: s-->
+# NavigationSetup
+No documentation found.

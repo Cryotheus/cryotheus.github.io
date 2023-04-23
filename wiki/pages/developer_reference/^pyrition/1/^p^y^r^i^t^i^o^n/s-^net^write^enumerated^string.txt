@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: namespace text recipients
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L189-L198
+TAGS: s-->
 # NetWriteEnumeratedString
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L189-L198
-TAGS: s
-ARGUMENTS: namespace text recipients-->
 No documentation found.

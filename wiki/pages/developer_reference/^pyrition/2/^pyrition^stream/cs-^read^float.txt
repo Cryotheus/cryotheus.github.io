@@ -1,4 +1,5 @@
-# ReadFloat
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L435
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L435
 TAGS: cs-->
+# ReadFloat
 No documentation found.

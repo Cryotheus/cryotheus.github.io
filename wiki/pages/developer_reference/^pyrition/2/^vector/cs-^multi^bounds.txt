@@ -1,3 +1,7 @@
+<!--META!ARGUMENTS: :...
+OWNER: Pyrition
+RETURNS: 
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L288-L305
+TAGS: cs-->
 # MultiBounds
-TYPES: Vector
-RETURNS: Vector, Vector
+No documentation found.

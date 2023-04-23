@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: log key phrases broadcast
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/server.lua#L9-L32
+TAGS: s-->
 # LanguageDisplay
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/server.lua#L9-L32
-TAGS: s
-ARGUMENTS: log key phrases broadcast-->
 No documentation found.

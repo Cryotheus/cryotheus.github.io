@@ -1,4 +1,7 @@
+<!--META!ARGUMENTS: :duplex position value
+OWNER: Pyrition
+RETURNS: 
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L130-L151
+TAGS: cs-->
 # Set
-TYPES: table, number, any
-RETURNS: number
 Sets a value at a specific index in the duplex, and returns the index.

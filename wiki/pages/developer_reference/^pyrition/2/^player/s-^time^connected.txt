@@ -1,4 +1,5 @@
-# TimeConnected
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/server.lua#L9-L13
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/server.lua#L9-L13
 TAGS: s-->
+# TimeConnected
 No documentation found.

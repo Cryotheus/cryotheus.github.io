@@ -1,4 +1,5 @@
-# Hibernating
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/hibernate.lua#L31
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/hibernate.lua#L34
 TAGS: s-->
-No documentation found.
+# Hibernating
+Returns true if hibernation thinking is enabled.

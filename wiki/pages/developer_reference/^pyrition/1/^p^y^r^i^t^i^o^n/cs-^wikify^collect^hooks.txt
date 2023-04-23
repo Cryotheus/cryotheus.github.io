@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: hook_table hook_prefix hook_functions standard_functions
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L376-L392
+TAGS: cs-->
 # WikifyCollectHooks
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L343-L359
-TAGS: cs
-ARGUMENTS: hook_table hook_prefix hook_functions standard_functions-->
 No documentation found.

@@ -1,4 +1,7 @@
+<!--META!ARGUMENTS: :duplex sorter
+OWNER: Pyrition
+RETURNS: 
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L153-L167
+TAGS: cs-->
 # Sort
-TYPES: table, function=nil
-RETURNS: table, table
 Sorts the duplex, and returns the sorted table and a list of the values.

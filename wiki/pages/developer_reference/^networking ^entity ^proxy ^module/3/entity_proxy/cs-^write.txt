@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: entity_index
+OWNER: Networking Entity Proxy Module
+SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L362
+TAGS: cs-->
 # Write
-<!--META!SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L362
-TAGS: cs
-ARGUMENTS: entity_index-->
 No documentation found.

@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: delta_vector minimums maximums
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L189-L215
+TAGS: cs-->
 # CubeIntersect
 Find a bounds intersection from the vector given an offset and the bounds.

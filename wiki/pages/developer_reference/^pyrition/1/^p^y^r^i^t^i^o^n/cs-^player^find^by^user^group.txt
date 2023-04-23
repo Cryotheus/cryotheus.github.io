@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: user_group _supplicant
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/find.lua#L35-L41
+TAGS: cs-->
 # PlayerFindByUserGroup
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/find.lua#L35-L41
-TAGS: cs
-ARGUMENTS: user_group _supplicant-->
 No documentation found.

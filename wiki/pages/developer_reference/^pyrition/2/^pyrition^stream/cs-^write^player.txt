@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L705
+TAGS: cs-->
 # WritePlayer
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L705
-TAGS: cs
-ARGUMENTS: ply-->
 No documentation found.

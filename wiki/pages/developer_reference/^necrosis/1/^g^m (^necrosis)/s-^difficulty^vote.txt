@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply class
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/server.lua#L41-L57
+TAGS: s-->
 # DifficultyVote
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/server.lua#L37-L53
-TAGS: s
-ARGUMENTS: ply class-->
 No documentation found.

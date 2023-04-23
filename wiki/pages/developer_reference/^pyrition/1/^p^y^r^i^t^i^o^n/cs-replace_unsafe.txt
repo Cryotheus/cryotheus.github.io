@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: text
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/string.lua#L15-L28
+TAGS: cs-->
 # replace_unsafe
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/string.lua#L15-L28
-TAGS: cs
-ARGUMENTS: text-->
 No documentation found.

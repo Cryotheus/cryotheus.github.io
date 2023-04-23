@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply _transition
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L142-L156
+TAGS: s-->
 # PlayerSpawn
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L125-L137
-TAGS: s
-ARGUMENTS: ply _transition-->
 No documentation found.

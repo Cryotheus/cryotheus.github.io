@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: angle
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L601-L605
+TAGS: cs-->
 # WriteAngle
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L601-L605
-TAGS: cs
-ARGUMENTS: angle-->
 No documentation found.

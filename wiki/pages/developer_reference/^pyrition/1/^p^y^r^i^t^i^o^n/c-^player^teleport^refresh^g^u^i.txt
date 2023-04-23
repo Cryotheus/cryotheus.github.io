@@ -1,4 +1,5 @@
-# PlayerTeleportRefreshGUI
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/teleport/client.lua#L4-L8
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/teleport/client.lua#L4-L8
 TAGS: c-->
+# PlayerTeleportRefreshGUI
 No documentation found.

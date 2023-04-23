@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: class realm model base_class
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L108-L143
+TAGS: cs-->
 # PyritionNetStreamModelRegister
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L108-L143
-TAGS: cs
-ARGUMENTS: class realm model base_class-->
 No documentation found.

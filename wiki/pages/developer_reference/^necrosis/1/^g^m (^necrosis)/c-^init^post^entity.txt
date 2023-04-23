@@ -1,4 +1,5 @@
-# InitPostEntity
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/client.lua#L7-L13
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/client.lua#L7-L13
 TAGS: c-->
+# InitPostEntity
 No documentation found.

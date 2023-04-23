@@ -1,0 +1,8 @@
+<!--META!ARGUMENTS: _class_name _panel_table _base_name
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/client.lua#L16-L20
+TAGS: c-->
+# PyritionVGUIRegister
+Called before vgui.Register, used to modify registered panels.
+To modify a specific panel by class_name, make a hook with the event `PyritionVGUIRegister_Jeff` where `Jeff` is what the class_name is.
+This version of the hook is called after PyritionVGUIRegister and is not called with the class_name parameter.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: level ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/shared.lua#L95-L99
+TAGS: cs-->
 # _drint
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/shared.lua#L85-L89
-TAGS: cs
-ARGUMENTS: level ...-->
 No documentation found.

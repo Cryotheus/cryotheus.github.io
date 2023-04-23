@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: _ply
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server_hooks.lua#L3
+TAGS: s-->
 # NecrosisGameDroppedOut
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server_hooks.lua#L3
-TAGS: s
-ARGUMENTS: _ply-->
 No documentation found.

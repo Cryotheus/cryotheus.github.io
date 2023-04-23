@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: _ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L351
+TAGS: cs-->
 # Read
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L351
-TAGS: cs
-ARGUMENTS: _ply-->
 No documentation found.

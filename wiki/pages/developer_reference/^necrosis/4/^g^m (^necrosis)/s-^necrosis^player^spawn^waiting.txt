@@ -1,2 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L64-L70
+TAGS: s-->
 # NecrosisPlayerSpawnWaiting
 Spawns in all players who are dropping in.

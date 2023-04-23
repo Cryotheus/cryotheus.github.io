@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: method ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L457
+TAGS: cs-->
 # ReadMaybe
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L457
-TAGS: cs
-ARGUMENTS: method ...-->
 No documentation found.

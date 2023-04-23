@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: entity
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/client.lua#L9
+TAGS: c-->
 # NetworkEntityCreated
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/client.lua#L9
-TAGS: c
-ARGUMENTS: entity-->
 No documentation found.

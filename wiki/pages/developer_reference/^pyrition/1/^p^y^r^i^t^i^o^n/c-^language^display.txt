@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: option key phrases
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/client.lua#L5-L15
+TAGS: c-->
 # LanguageDisplay
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/client.lua#L5-L15
-TAGS: c
-ARGUMENTS: option key phrases-->
 No documentation found.

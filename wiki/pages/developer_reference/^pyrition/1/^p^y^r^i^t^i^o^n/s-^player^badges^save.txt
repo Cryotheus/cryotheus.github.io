@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply transaction
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L68-L77
+TAGS: s-->
 # PlayerBadgesSave
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L68-L77
-TAGS: s
-ARGUMENTS: ply transaction-->
 No documentation found.

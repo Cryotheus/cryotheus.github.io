@@ -1,4 +1,7 @@
+<!--META!ARGUMENTS: :duplex modify
+OWNER: Pyrition
+RETURNS: 
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L90-L99
+TAGS: cs-->
 # MakeFooplex
-TYPES: table, boolean
-RETURNS: table
 Creates a non-sequential duplex (fooplex) from a sequential table, or turns the original into one instead of creating a new table entirely.

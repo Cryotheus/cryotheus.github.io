@@ -1,4 +1,5 @@
-# NecrosisGameLost
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server_hooks.lua#L5
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server_hooks.lua#L5
 TAGS: s-->
+# NecrosisGameLost
 No documentation found.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply key player_datum success tracker
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L242-L250
+TAGS: s-->
 # PyritionPlayerStorageLoaded
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L242-L250
-TAGS: s
-ARGUMENTS: ply key player_datum success tracker-->
 No documentation found.

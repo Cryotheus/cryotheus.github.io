@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: target
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/timer/server.lua#L6-L10
+TAGS: s-->
 # GameTimerSet
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/timer/server.lua#L6-L10
-TAGS: s
-ARGUMENTS: target-->
 No documentation found.

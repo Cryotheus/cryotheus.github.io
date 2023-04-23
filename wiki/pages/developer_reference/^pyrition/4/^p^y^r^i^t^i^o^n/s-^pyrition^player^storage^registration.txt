@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: database_name
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L339-L347
+TAGS: s-->
 # PyritionPlayerStorageRegistration
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/storage/server.lua#L339-L347
-TAGS: s
-ARGUMENTS: database_name-->
 No documentation found.

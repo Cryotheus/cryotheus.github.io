@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L210-L229
+TAGS: cs-->
 # PlayerBadgesGetGlint
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L210-L229
-TAGS: cs
-ARGUMENTS: ply-->
 No documentation found.

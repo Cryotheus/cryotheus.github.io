@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: current target increment
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L59-L68
+TAGS: cs-->
+# Approach
+Same as it is in the [Garry's Mod Wiki](https://wiki.facepunch.com/gmod/math.Approach)

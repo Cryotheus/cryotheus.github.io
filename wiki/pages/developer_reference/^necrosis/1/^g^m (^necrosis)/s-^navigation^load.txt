@@ -1,0 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/server.lua#L38-L51
+TAGS: s-->
+# NavigationLoad
+No documentation found.

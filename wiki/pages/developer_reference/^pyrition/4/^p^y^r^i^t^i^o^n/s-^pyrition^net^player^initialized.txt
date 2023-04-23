@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply _emulated
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L240
+TAGS: s-->
 # PyritionNetPlayerInitialized
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L240
-TAGS: s
-ARGUMENTS: ply _emulated-->
 No documentation found.

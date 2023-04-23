@@ -1,4 +1,5 @@
-# GlobalHookRefresh
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/hook.lua#L42-L57
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/hook.lua#L48-L63
 TAGS: cs-->
+# GlobalHookRefresh
 No documentation found.

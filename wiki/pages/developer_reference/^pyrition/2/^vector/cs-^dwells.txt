@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: minimums maximums
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L246-L249
+TAGS: cs-->
 # Dwells
 Returns true if the point is contained by the two vectors (specifying bounds) (includes surfaces)

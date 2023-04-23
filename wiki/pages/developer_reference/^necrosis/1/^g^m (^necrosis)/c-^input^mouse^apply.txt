@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: command _x _y angles
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/flip.lua#L47-L88
+TAGS: c-->
 # InputMouseApply
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/flip.lua#L47-L87
-TAGS: c
-ARGUMENTS: command _x _y angles-->
 No documentation found.

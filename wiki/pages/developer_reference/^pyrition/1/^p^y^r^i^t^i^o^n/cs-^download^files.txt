@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: url_list prefix path_prefix
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/download.lua#L44-L50
+TAGS: cs-->
 # DownloadFiles
 Called by DownloadList to download the files in the list fetched.

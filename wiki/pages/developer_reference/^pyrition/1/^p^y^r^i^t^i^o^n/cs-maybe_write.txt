@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: net_function value ...
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L10-L15
+TAGS: cs-->
 # maybe_write
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/shared.lua#L10-L15
-TAGS: cs
-ARGUMENTS: net_function value ...-->
 No documentation found.

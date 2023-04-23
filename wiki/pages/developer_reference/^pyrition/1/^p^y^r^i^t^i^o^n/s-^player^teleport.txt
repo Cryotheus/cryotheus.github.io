@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply destination teleport_type note
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/teleport/server.lua#L23-L30
+TAGS: s-->
 # PlayerTeleport
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/teleport/server.lua#L23-L30
-TAGS: s
-ARGUMENTS: ply destination teleport_type note-->
 No documentation found.

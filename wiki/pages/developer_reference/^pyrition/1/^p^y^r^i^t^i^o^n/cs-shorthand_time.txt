@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: seconds recursions
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/time.lua#L107
+TAGS: cs-->
 # shorthand_time
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/time.lua#L107
-TAGS: cs
-ARGUMENTS: seconds recursions-->
 No documentation found.

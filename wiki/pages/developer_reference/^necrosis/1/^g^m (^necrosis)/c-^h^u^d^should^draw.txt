@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: _name
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/main_menu.lua#L10-L14
+TAGS: c-->
+# HUDShouldDraw
+No documentation found.

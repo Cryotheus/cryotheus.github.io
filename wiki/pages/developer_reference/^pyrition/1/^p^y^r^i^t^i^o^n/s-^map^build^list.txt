@@ -1,4 +1,5 @@
-# MapBuildList
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L17-L28
+<!--META!OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L17-L28
 TAGS: s-->
+# MapBuildList
 No documentation found.

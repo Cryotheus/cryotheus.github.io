@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply badge old_level level old_tier tier
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L80-L98
+TAGS: s-->
 # PyritionPlayerBadgeLevelChanged
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L80-L98
-TAGS: s
-ARGUMENTS: ply badge old_level level old_tier tier-->
 No documentation found.

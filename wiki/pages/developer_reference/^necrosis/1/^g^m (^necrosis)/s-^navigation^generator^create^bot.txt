@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: start_index finish_index
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/generator.lua#L334-L390
+TAGS: s-->
+# NavigationGeneratorCreateBot
+No documentation found.

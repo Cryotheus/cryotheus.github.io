@@ -1,0 +1,6 @@
+<!--META!ARGUMENTS: _data
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/shared.lua#L2-L6
+TAGS: cs-->
+# EntityEmitSound
+No documentation found.

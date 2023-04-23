@@ -1,2 +1,6 @@
+<!--META!ARGUMENTS: _wave _wave_type
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wave/client.lua#L7-L10
+TAGS: c-->
 # NecrosisWaveStart
 Called when the wave starts.

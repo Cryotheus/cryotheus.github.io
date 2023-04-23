@@ -1,3 +1,7 @@
+<!--META!ARGUMENTS: command_signature
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L17-L23
+TAGS: cs-->
 # ConsoleCommandGet
 Returns the command table when given the full command signature, eg. `health~Player Integer`.
 Also returns argument signature's index in the command's `Signature` table.

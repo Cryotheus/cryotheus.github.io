@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: namespace _ply text enumeration
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L7-L20
+TAGS: c-->
 # read_enumerated_string
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L7-L20
-TAGS: c
-ARGUMENTS: namespace _ply text enumeration-->
 No documentation found.

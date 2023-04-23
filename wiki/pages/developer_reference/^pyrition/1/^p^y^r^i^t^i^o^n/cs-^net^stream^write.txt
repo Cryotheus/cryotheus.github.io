@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: stream_queue
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L1023-L1052
+TAGS: cs-->
 # NetStreamWrite
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L1023-L1052
-TAGS: cs
-ARGUMENTS: stream_queue-->
 No documentation found.

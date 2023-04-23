@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply kick_time
+OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/client.lua#L25-L30
+TAGS: c-->
 # PlayerKickNotfiy
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/client.lua#L25-L30
-TAGS: c
-ARGUMENTS: ply kick_time-->
 No documentation found.

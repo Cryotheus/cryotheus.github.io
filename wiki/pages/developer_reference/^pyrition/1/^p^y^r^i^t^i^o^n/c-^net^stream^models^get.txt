@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: class
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/client.lua#L12-L22
+TAGS: c-->
 # NetStreamModelsGet
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/client.lua#L12-L22
-TAGS: c
-ARGUMENTS: class-->
 No documentation found.

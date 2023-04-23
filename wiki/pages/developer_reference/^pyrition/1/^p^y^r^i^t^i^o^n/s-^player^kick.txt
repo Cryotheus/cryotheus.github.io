@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply reason
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/kick.lua#L17-L31
+TAGS: s-->
 # PlayerKick
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/kick.lua#L17-L31
-TAGS: s
-ARGUMENTS: ply reason-->
 No documentation found.

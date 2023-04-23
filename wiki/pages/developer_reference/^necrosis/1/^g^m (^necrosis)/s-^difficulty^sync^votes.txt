@@ -1,2 +1,5 @@
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/server.lua#L39
+TAGS: s-->
 # DifficultySyncVotes
 Writes and syncs the votes on the next tick.

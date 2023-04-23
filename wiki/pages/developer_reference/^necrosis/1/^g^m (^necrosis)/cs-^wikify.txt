@@ -1,4 +1,5 @@
-# Wikify
-<!--META!SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wikify.lua#L5-L46
+<!--META!OWNER: Necrosis
+SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wikify.lua#L5-L46
 TAGS: cs-->
+# Wikify
 No documentation found.

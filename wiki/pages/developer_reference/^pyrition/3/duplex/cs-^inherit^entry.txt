@@ -1,3 +1,7 @@
+<!--META!ARGUMENTS: :target source index
+OWNER: Pyrition
+RETURNS: 
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L40-L46
+TAGS: cs-->
 # InheritEntry
-TYPES: table, table, any
-RETURNS: any
+No documentation found.

@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: long
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L685-L688
+TAGS: cs-->
 # WriteLong
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L685-L688
-TAGS: cs
-ARGUMENTS: long-->
 No documentation found.

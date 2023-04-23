@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: ply entry
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/teleport/server.lua#L32-L52
+TAGS: s-->
 # PlayerTeleportReturn
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/teleport/server.lua#L32-L52
-TAGS: s
-ARGUMENTS: ply entry-->
 No documentation found.

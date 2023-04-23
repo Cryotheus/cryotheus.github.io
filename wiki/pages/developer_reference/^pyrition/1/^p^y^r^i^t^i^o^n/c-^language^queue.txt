@@ -1,5 +1,6 @@
+<!--META!ARGUMENTS: _ply key phrases option
+OWNER: Pyrition
+SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/client.lua#L17
+TAGS: c-->
 # LanguageQueue
-<!--META!SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/client.lua#L17
-TAGS: c
-ARGUMENTS: _ply key phrases option-->
 No documentation found.
