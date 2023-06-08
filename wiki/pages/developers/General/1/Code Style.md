@@ -35,34 +35,28 @@ In Pyrition specifically, the global method table is `PYRITION` and any function
 Methods should be named based on their location in the project. You should need to have `Client`, `Server`, or `Shared` in the name unless absolutely necessary.  
 
 ## Ordering
-Compartmentalize and alphabetically sort your code when possible. Most of the time you will find files with simple comments that denote the sections of the file. These are not neccessary (originally used for a now-defunct visualizer script), but highly suggested.  
-The order is as follows:
-
-| Comment Tag                                        | Description                                                                                                      |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| `--!dump me!`                                      | For preprocessors, should be removed in production                                                               |
-| `--debug`                                          | Should be removed in production                                                                                  |
-| `--autoreload`                                     | Code to properly reload the script                                                                               |
-| `--pragma once`                                    | Usually immediately followed by `if <condition> then return end` and stops the file from being reloaded          |
-| `--header` or ` `                                  | Uncommon, usually contains `include`, `require`, and sometimes calls to the `resource` and `util` libraries      |
-| `--locals`                                         | Local variables sometimes including localized functions                                                          |
-| `--localized functions` `----localized functions`  | Large list of localized functions for when there are too many to use in the locals section, may have indentation |
-| `--` `----`                                        | Used to indicate the end of indented localized functions (hint to the IDE)                                       |
-| `--local tables`                                   | Local tables that may contain localized values, rarely includes empty and one-liner tables                       |
-| `--local functions`                                | Self explanatory, can be used to create a function for an already declared local                                 |
-| `--post function setup`                            | Code for initializing tables, userdata, and whatever else needs to be done before the code below                 |
-| `--globals`                                        | Global variables and values set in global tables                                                                 |
-| `--global functions`                               | Global functions                                                                                                 |
-| `--<addon name> methods` `--<addon name> function` | Methods for a `<ADDON_NAME>` global method table                                                                 |
-| `--<addon name> hooks`                             | Methods prefixed by camel case `<AddonName>`                                                                     |
-| `--commands`                                       | Calls to `concommand.Add`                                                                                        |
-| `--convars`                                        | Convar change callbacks                                                                                          |
-| `--hooks`                                          | Hooks create with `hook.Add`                                                                                     |
-| `--net`                                            | `net.Receive` callbacks                                                                                          |
-| `--post`                                           | Initialization code for the file                                                                                 |
-| `--autoreload`                                     | Code to properly reload the script                                                                               |
-| `--debug`                                          | Should be removed in production                                                                                  |
-| `--returns`                                        | For scripts that need to return lots of values or large (using a lot of characters) table                        |
+Compartmentalize and alphabetically sort your code when possible.  
+The ordering from top to bottom should be:
+-	Script's run condition (eg. `if CLIENT then return end`)
+-	Includes, `AddCSLuaFile`, resources, network string registration
+-	Constants (local variables)
+-	Local variables
+	-	Misc.
+	-	Colors
+	-	Textures / render targets
+	-	Materials
+-	Local tables requiring multiple lines
+-	Local functions
+-	Setup code (formatting tables, calling local functions, etc.)
+-	Globals
+-	Global functions
+-	Context specific meta-methods (for your own meta tables or meta tables in the registry)
+-	Project methods (eg. `RETROFX:SomeFunction`)
+-	`concommand.Add`
+-	`cvars.AddChangeCallback`
+-	`hook.Add`
+-	`net.Receive`
+-	Setup code (typically registration)
 
 ## Spacing
 Don't worry too much about spacing rules. I tend to add more space around larger function and table declarations, and shrink space around one lines. I also try to group code that is similar together.  
