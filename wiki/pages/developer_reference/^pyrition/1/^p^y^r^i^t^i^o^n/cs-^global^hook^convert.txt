@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: key post immediate
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/global/hook.lua#L32-L37
-TAGS: cs-->
-# GlobalHookConvert
-No documentation found.

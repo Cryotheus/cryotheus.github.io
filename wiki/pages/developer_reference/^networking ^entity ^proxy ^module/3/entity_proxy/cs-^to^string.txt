@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: proxy
-OWNER: Networking Entity Proxy Module
-SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L332-L360
-TAGS: cs-->
-# ToString
-No documentation found.

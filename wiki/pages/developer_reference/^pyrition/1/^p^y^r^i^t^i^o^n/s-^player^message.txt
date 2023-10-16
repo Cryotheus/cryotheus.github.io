@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply targets message
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/message/server.lua#L15-L68
-TAGS: s-->
-# PlayerMessage
-No documentation found.

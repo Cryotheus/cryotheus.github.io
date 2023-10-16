@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: instruction callback error_callback
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/includes/sqlite.lua#L5-L32
-TAGS: s-->
-# query
-No documentation found.

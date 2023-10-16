@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/server.lua#L32-L36
-TAGS: s-->
-# NavigationGetChecksum
-No documentation found.

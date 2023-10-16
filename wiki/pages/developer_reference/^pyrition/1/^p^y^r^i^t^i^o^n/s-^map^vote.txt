@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply map_name
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L76-L103
-TAGS: s-->
-# MapVote
-No documentation found.

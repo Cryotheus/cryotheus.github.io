@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: needle _supplicant
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/find.lua#L43-L61
-TAGS: cs-->
-# PlayerFindBySteamID
-No documentation found.

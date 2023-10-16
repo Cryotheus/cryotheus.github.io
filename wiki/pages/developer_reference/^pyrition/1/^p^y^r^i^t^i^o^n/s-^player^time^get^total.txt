@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L28-L36
-TAGS: s-->
-# PlayerTimeGetTotal
-No documentation found.

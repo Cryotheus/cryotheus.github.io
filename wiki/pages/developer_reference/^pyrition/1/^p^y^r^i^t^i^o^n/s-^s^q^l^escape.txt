@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: text
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L181
-TAGS: s-->
-# SQLEscape
-No documentation found.

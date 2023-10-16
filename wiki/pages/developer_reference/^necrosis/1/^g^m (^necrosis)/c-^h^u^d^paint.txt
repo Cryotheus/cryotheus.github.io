@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/main_menu.lua#L2-L8
-TAGS: c-->
-# HUDPaint
-No documentation found.

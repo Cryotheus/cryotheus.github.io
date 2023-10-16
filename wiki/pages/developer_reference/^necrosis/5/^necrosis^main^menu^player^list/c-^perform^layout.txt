@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: width
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/player_list.lua#L36-L45
-TAGS: c-->
-# PerformLayout
-No documentation found.

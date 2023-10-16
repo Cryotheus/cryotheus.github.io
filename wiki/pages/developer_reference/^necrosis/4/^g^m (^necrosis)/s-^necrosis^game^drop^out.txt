@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply use_team
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L62-L78
-TAGS: s-->
-# NecrosisGameDropOut
-Called when a player attempts to drop out.

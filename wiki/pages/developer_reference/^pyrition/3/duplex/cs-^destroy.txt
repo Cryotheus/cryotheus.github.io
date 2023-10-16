@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :duplex
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L20-L27
-TAGS: cs-->
-# Destroy
-Turns the duplex into a list, modifying the original table.

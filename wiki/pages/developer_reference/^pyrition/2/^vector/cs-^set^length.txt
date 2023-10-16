@@ -1,8 +1,0 @@
-<!--META!ARGUMENTS: :magnitude
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L307-L315
-TAGS: cs-->
-# SetLength
-Sets the vector's length.
-This modifies the vector.

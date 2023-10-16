@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/timer/server.lua#L22-L25
-TAGS: s-->
-# GameTimerStop
-No documentation found.

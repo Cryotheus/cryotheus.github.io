@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: difficulty_index
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/client.lua#L13-L16
-TAGS: c-->
-# NecrosisGameStart
-No documentation found.

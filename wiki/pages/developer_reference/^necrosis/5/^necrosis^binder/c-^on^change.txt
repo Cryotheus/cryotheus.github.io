@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: code
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/binder.lua#L26
-TAGS: c-->
-# OnChange
-No documentation found.

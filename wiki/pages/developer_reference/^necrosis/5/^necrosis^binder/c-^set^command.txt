@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: command
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/binder.lua#L38-L43
-TAGS: c-->
-# SetCommand
-No documentation found.

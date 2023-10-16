@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L116-L120
-TAGS: s-->
-# NecrosisGameWin
-Called when we are about to start the winning sequence.

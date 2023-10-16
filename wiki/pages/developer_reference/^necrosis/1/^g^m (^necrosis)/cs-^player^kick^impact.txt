@@ -1,8 +1,0 @@
-<!--META!ARGUMENTS: ply entity position
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/shared.lua#L29-L44
-TAGS: cs-->
-# PlayerKickImpact
-PREDICTED
-Calls the appropriate kick impact function based on the entity and position.
-This can call PlayerKickImpactEntity, PlayerKickImpactMissed, or PlayerKickImpactWorld.

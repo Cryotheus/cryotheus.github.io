@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _ply
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L54
-TAGS: cs-->
-# InitialSync
-No documentation found.

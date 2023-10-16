@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: old new
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/timer/client.lua#L5-L10
-TAGS: c-->
-# NecrosisGameTimerUpdated
-Hook for panels to update their timer.

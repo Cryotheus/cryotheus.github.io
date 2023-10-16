@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: steam_id_64 name title description
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/settings_menu/credits.lua#L5-L78
-TAGS: c-->
-# Add
-No documentation found.

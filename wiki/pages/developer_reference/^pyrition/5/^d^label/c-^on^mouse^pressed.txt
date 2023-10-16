@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: mouse_code
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/panels/dlabel.lua#L6-L36
-TAGS: c-->
-# OnMousePressed
-No documentation found.

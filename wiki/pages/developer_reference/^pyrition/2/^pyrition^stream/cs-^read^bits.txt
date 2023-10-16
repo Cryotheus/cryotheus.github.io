@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: bits
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L379-L403
-TAGS: cs-->
-# ReadBits
-No documentation found.

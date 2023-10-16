@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/time/server.lua#L22-L26
-TAGS: s-->
-# PlayerTimeGetFirst
-No documentation found.

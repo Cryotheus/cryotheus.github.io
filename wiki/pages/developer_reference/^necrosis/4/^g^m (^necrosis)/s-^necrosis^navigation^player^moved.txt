@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _ply _last_area _new_area
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/server.lua#L82
-TAGS: s-->
-# NecrosisNavigationPlayerMoved
-For hooking.

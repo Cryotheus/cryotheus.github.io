@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :duplex index
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L169-L179
-TAGS: cs-->
-# Unset
-Removes an entry from the duplex, and returns the index. This does not shift down the following entries.

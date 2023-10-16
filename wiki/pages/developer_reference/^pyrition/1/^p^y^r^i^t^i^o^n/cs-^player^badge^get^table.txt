@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: class
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L150
-TAGS: cs-->
-# PlayerBadgeGetTable
-No documentation found.

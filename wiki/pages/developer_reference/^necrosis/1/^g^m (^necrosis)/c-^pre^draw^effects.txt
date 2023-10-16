@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/ui/main_menu.lua#L25-L30
-TAGS: c-->
-# PreDrawEffects
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: target distance
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L105-L114
-TAGS: cs-->
-# Approach
-Returns a vector that is moved `distance` units closer to `target`.

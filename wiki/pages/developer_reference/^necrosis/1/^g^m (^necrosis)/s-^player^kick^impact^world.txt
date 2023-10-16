@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply position
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/server.lua#L41-L44
-TAGS: s-->
-# PlayerKickImpactWorld
-No documentation found.

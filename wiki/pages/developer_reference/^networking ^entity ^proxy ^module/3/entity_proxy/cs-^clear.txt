@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: namespace
-OWNER: Networking Entity Proxy Module
-SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L30
-TAGS: cs-->
-# Clear
-No documentation found.

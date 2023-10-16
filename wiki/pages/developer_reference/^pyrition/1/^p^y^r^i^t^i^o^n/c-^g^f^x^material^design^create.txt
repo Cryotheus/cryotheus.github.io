@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: icon_name size
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gfx/material_design.lua#L11-L96
-TAGS: c-->
-# GFXMaterialDesignCreate
-No documentation found.

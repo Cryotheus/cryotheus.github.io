@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply desire
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/shared.lua#L2-L7
-TAGS: cs-->
-# PlayerNoClip
-No documentation found.

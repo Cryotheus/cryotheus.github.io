@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: completions argument insertion position
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command.lua#L2-L8
-TAGS: cs-->
-# insert_if_matching
-No documentation found.

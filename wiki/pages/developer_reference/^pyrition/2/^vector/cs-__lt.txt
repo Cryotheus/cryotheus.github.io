@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: right
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L88
-TAGS: cs-->
-# __lt
-No documentation found.

@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/settings_menu.lua#L5-L60
-TAGS: c-->
-# Init
-No documentation found.

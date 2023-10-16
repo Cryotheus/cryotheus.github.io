@@ -1,9 +1,0 @@
-<!--META!ARGUMENTS: minimum maximum
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L145-L163
-TAGS: cs-->
-# Clamp
-Clamp the vector's components to a minimum and maximum value.
-If provided numbers, the vector's components will be clamped to those numbers.
-If provided vectors, the vector's components will be clamped to the corresponding component of the vector.
-This modifies the vector.

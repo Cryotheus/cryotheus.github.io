@@ -1,5 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/meta/shared.lua#L23
-TAGS: cs-->
-# IsPlayerOrWorld
-No documentation found.

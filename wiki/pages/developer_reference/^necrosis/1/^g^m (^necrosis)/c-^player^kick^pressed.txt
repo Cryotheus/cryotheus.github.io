@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/client.lua#L32
-TAGS: c-->
-# PlayerKickPressed
-No documentation found.

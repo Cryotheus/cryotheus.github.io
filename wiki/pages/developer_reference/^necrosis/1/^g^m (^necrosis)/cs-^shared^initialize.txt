@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/shared.lua#L8
-TAGS: cs-->
-# SharedInitialize
-No documentation found.

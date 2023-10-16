@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: class ply
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L99-L105
-TAGS: cs-->
-# NetStreamModelGetExisting
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: object
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L46-L53
-TAGS: s-->
-# recipient_iterable
-No documentation found.

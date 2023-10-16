@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/bind/client.lua#L133
-TAGS: c-->
-# ShowHelp
-No documentation found.

@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: current target increment
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L70-L81
-TAGS: cs-->
-# ApproachPA
-Proof-abiding version of `math.Approach`, this will let the value "run away" if given a negative increment.
-This behavior will not happen if `current` is equal to `target`.

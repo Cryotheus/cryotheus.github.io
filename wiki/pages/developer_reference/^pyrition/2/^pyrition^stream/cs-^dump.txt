@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: zeros
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L257-L284
-TAGS: cs-->
-# Dump
-No documentation found.

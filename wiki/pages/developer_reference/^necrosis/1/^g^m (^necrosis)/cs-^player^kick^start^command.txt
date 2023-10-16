@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply command _player_class
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/shared.lua#L46-L76
-TAGS: cs-->
-# PlayerKickStartCommand
-PREDICTED

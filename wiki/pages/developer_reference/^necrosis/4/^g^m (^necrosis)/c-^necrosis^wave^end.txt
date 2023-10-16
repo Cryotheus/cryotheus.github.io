@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _wave
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/wave/client.lua#L2-L5
-TAGS: c-->
-# NecrosisWaveEnd
-Called when the wave ends.

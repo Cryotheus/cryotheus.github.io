@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: steam_id
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/convention.lua#L10-L18
-TAGS: cs-->
-# _SignificantDigitSteamID
-No documentation found.

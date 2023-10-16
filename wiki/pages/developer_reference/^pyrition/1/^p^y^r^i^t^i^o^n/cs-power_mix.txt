@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: fraction power alpha bravo
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gradient.lua#L17-L27
-TAGS: cs-->
-# power_mix
-No documentation found.

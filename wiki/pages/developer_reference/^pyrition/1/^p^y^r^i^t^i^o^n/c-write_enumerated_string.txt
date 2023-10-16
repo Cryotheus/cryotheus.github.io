@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: namespace text
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/client.lua#L22-L32
-TAGS: c-->
-# write_enumerated_string
-No documentation found.

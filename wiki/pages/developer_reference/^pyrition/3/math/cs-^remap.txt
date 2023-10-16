@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: value in_minimum in_maximum out_minimum out_maximum
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L137-L141
-TAGS: cs-->
-# Remap
-Same as it is in the [Garry's Mod Wiki](https://wiki.facepunch.com/gmod/math.Remap)

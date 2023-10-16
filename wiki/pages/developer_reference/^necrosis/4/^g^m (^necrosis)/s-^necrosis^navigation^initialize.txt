@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/server.lua#L84-L106
-TAGS: s-->
-# NecrosisNavigationInitialize
-No documentation found.

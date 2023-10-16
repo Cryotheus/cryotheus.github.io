@@ -1,5 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L69-L74
-TAGS: s-->
-# MapThink
-No documentation found.

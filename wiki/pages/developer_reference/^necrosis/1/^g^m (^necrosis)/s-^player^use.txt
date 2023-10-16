@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply _entity
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L175
-TAGS: s-->
-# PlayerUse
-No documentation found.

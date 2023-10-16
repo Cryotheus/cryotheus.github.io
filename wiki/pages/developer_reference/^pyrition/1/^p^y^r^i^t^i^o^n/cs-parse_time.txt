@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: text default_unit
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/time.lua#L76-L105
-TAGS: cs-->
-# parse_time
-No documentation found.

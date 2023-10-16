@@ -1,5 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/client.lua#L42-L46
-TAGS: c-->
-# NetStreamModelThink
-No documentation found.

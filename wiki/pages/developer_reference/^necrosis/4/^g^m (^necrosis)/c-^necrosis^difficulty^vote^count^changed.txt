@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _vote_counts
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/client.lua#L16
-TAGS: c-->
-# NecrosisDifficultyVoteCountChanged
-For hooking.

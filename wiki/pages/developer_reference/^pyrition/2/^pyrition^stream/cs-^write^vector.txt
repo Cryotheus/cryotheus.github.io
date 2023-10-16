@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: vector
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L842-L846
-TAGS: cs-->
-# WriteVector
-No documentation found.

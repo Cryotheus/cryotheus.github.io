@@ -1,6 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L24-L33
-TAGS: s-->
-# GameCheckLoss
-INTERNAL
-Initiate a game over if there are no survivors left.

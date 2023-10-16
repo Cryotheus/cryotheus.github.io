@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: namespace entity_index timeout
-OWNER: Networking Entity Proxy Module
-SOURCE: https://github.com/Cryotheus/entity_proxy/blob/master/lua/includes/entity_proxy.lua#L33-L285
-TAGS: cs-->
-# CreateInternal
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: destination minimums maximums
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L217-L244
-TAGS: cs-->
-# CubeIntersectTarget
-Find a bounds intersection from the vector given a target and bounds.

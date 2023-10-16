@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: character
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L641
-TAGS: cs-->
-# WriteCharacter
-No documentation found.

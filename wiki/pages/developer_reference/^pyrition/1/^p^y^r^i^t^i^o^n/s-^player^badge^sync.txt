@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply badge
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L57-L66
-TAGS: s-->
-# PlayerBadgeSync
-No documentation found.

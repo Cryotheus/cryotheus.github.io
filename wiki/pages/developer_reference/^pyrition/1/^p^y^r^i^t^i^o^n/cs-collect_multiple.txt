@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ...
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L44-L51
-TAGS: cs-->
-# collect_multiple
-No documentation found.

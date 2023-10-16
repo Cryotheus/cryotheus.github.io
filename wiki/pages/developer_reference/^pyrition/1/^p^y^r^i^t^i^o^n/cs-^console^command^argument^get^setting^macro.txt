@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: enumeration
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/console/command_argument.lua#L33-L37
-TAGS: cs-->
-# ConsoleCommandArgumentGetSettingMacro
-No documentation found.

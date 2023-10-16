@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: hashed collection
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L34-L42
-TAGS: cs-->
-# collect_functions
-No documentation found.

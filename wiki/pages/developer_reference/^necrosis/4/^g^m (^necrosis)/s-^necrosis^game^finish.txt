@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L80-L86
-TAGS: s-->
-# NecrosisGameFinish
-Called when the game is finished.

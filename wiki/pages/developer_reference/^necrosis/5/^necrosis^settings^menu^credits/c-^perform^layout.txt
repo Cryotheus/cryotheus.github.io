@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _width height
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/settings_menu/credits.lua#L85-L89
-TAGS: c-->
-# PerformLayout
-No documentation found.

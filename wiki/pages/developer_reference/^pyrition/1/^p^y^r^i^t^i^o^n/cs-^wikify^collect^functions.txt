@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: function_list
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/wikify.lua#L275-L374
-TAGS: cs-->
-# WikifyCollectFunctions
-No documentation found.

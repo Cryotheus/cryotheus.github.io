@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: level
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L80
-TAGS: cs-->
-# UpdateLevel
-No documentation found.

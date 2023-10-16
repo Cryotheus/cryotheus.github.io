@@ -1,5 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L524-L539
-TAGS: cs-->
-# ReadTerminatedString
-No documentation found.

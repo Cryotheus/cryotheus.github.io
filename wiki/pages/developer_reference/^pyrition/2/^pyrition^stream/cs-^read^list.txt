@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: bits method ...
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L443-L449
-TAGS: cs-->
-# ReadList
-No documentation found.

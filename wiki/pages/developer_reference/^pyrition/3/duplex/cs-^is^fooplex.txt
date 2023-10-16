@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :duplex
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L64-L77
-TAGS: cs-->
-# IsFooplex
-Returns true if the duplex is not sequential, false otherwise.

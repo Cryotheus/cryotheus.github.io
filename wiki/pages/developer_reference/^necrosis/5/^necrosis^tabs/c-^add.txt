@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: key label
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/tabs.lua#L8-L57
-TAGS: c-->
-# Add
-No documentation found.

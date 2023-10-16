@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: command
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/bind/client.lua#L87-L97
-TAGS: c-->
-# BindRestore
-No documentation found.

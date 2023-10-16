@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply command
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/shared.lua#L9-L16
-TAGS: cs-->
-# StartCommand
-No documentation found.

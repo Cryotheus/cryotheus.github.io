@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: index
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/difficulty.lua#L132-L136
-TAGS: c-->
-# SetDifficulty
-No documentation found.

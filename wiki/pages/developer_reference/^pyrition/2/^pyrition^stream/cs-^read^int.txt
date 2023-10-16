@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: bits
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L437-L441
-TAGS: cs-->
-# ReadInt
-No documentation found.

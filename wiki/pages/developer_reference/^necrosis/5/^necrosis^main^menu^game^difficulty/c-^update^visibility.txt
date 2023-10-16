@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/difficulty.lua#L176-L190
-TAGS: c-->
-# UpdateVisibility
-No documentation found.

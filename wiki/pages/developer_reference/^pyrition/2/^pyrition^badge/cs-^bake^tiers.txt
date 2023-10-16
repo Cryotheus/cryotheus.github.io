@@ -1,5 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L35-L54
-TAGS: cs-->
-# BakeTiers
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply inflictor attacker
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L72-L111
-TAGS: s-->
-# PlayerDeath
-No documentation found.

@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/difficulty.lua#L157-L174
-TAGS: c-->
-# ThinkHover
-No documentation found.

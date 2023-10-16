@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: source_index target_index
-COST: 
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/path.lua#L12-L21
-TAGS: s-->
-# NavigationPathGet
-No documentation found.

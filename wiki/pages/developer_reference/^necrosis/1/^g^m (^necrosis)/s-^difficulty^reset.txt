@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/server.lua#L33-L37
-TAGS: s-->
-# DifficultyReset
-No documentation found.

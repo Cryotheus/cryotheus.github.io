@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: namespace text recipients
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L655-L668
-TAGS: cs-->
-# WriteEnumeratedString
-No documentation found.

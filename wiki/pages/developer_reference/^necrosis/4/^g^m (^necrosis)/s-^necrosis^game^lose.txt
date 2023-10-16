@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L88-L99
-TAGS: s-->
-# NecrosisGameLose
-Called when we are about to start the losing sequence.

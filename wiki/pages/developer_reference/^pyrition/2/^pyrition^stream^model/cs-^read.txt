@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _ply
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L58
-TAGS: cs-->
-# Read
-No documentation found.

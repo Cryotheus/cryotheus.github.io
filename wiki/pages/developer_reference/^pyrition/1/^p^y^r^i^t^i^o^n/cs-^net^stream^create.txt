@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: class ply
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L922-L940
-TAGS: cs-->
-# NetStreamCreate
-No documentation found.

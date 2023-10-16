@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply respawn team_index
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L55-L62
-TAGS: s-->
-# NecrosisPlayerSpawnAsSurvivor
-No documentation found.

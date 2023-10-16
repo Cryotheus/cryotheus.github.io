@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: key
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/tabs.lua#L59-L67
-TAGS: c-->
-# Choose
-No documentation found.

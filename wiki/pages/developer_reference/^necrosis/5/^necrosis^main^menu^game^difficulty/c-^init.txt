@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/difficulty.lua#L6-L123
-TAGS: c-->
-# Init
-No documentation found.

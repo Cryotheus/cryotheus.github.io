@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _key _button
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/tabs.lua#L70
-TAGS: c-->
-# OnSelect
-No documentation found.

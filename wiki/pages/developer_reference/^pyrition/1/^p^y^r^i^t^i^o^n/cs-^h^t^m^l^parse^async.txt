@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: body callback budget
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/html.lua#L131-L147
-TAGS: cs-->
-# HTMLParseAsync
-Parses an XHTML string asynchronously, calling the `callback` function with a table of the elements when finished.

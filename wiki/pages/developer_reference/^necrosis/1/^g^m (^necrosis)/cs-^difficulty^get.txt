@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: class_or_index
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/shared.lua#L6
-TAGS: cs-->
-# DifficultyGet
-No documentation found.

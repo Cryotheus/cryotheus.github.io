@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: name
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/binder_labeled.lua#L39-L42
-TAGS: c-->
-# SetNecrosisFont
-No documentation found.

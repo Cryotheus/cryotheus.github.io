@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: text phrases
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/shared.lua#L271
-TAGS: cs-->
-# LanguageFormatTranslated
-No documentation found.

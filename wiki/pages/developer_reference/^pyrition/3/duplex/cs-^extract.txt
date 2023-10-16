@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :duplex
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L29-L38
-TAGS: cs-->
-# Extract
-No documentation found.

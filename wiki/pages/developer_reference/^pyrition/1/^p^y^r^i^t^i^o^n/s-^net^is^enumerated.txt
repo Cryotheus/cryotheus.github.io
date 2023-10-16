@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: namespace index
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L110-L114
-TAGS: s-->
-# NetIsEnumerated
-No documentation found.

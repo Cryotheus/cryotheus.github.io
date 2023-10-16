@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply _new_team _old_team
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/ready_button.lua#L107-L110
-TAGS: c-->
-# TeamChanged
-The NecrosisPlayerTeamUpdated hook.

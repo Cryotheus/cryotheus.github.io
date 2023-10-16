@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/server.lua#L37-L60
-TAGS: s-->
-# NecrosisGameDropIn
-Called when a player attempts to drop in.

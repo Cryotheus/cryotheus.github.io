@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: key
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/hibernate.lua#L33
-TAGS: s-->
-# HibernateWake
-Enables hibernation thinking.

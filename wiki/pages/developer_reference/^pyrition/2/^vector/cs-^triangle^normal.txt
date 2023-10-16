@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :second third
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L327-L336
-TAGS: cs-->
-# TriangleNormal
-Given two additional points, returns the normal of the created triangle.

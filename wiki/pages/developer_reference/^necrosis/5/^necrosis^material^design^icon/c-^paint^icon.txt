@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: width height
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/material_design/icon.lua#L13-L18
-TAGS: c-->
-# PaintIcon
-No documentation found.

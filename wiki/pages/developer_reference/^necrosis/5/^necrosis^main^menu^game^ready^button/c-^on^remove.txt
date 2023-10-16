@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/main_menu/game/ready_button.lua#L74-L78
-TAGS: c-->
-# OnRemove
-No documentation found.

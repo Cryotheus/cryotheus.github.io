@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: convar
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/client/convar.lua#L8-L23
-TAGS: c-->
-# ConVarMirror
-No documentation found.

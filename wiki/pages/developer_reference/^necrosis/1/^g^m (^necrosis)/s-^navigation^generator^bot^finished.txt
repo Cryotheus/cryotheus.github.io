@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: nextbot
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/generator.lua#L322-L332
-TAGS: s-->
-# NavigationGeneratorBotFinished
-No documentation found.

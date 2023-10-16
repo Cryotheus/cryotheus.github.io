@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/ruled_header.lua#L6-L13
-TAGS: c-->
-# Scale
-No documentation found.

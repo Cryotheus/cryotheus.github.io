@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: user_id _supplicant
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/find.lua#L63-L73
-TAGS: cs-->
-# PlayerFindByUserID
-No documentation found.

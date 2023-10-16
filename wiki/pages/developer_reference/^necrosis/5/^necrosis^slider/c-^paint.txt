@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: width height
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/slider.lua#L8-L13
-TAGS: c-->
-# Paint
-No documentation found.

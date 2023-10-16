@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: class target ...
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/server.lua#L36-L55
-TAGS: s-->
-# NetStreamModelQueue
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply class level
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/server.lua#L9
-TAGS: s-->
-# PlayerBadgeLoaded
-No documentation found.

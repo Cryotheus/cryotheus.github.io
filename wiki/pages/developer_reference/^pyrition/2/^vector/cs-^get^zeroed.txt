@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :zero
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L276-L281
-TAGS: cs-->
-# GetZeroed
-Returns a vector with all components of zero set to the sepcified amount.

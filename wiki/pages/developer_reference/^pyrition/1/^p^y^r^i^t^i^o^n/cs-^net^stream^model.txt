@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: stream
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/model/shared.lua#L63-L76
-TAGS: cs-->
-# NetStreamModel
-No documentation found.

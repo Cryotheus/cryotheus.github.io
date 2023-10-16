@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: minimums maximums
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L283-L286
-TAGS: cs-->
-# Inside
-Returns true if the point is contained by the two vectors (specifying bounds) (excludes surfaces)

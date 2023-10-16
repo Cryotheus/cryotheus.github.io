@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :duplex modify
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/duplex.lua#L79-L88
-TAGS: cs-->
-# Make
-Creates a duplex from a sequential table, or turns the original into one instead of creating a new table entirely.

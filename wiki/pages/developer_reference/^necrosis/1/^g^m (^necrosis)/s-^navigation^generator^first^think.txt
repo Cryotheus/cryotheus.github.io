@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/server/navigation/generator.lua#L402-L419
-TAGS: s-->
-# NavigationGeneratorFirstThink
-No documentation found.

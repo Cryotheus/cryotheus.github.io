@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/settings_menu/binds.lua#L209-L227
-TAGS: c-->
-# Think
-No documentation found.

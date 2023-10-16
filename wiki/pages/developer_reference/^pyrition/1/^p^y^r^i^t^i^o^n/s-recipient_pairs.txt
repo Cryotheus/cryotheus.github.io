@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: recipients
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/server.lua#L55-L61
-TAGS: s-->
-# recipient_pairs
-No documentation found.

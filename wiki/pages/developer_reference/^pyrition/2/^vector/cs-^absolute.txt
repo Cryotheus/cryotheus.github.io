@@ -1,6 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L90-L98
-TAGS: cs-->
-# Absolute
-Makes all of the components of the vector positive.
-This modifies the vector.

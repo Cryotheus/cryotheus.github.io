@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: game_root
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/map/server.lua#L65
-TAGS: s-->
-# MapDisableGame
-No documentation found.

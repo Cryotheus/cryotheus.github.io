@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply class increment
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L174-L180
-TAGS: cs-->
-# PlayerBadgeIncrement
-No documentation found.

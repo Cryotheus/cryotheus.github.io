@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: key
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/language/server.lua#L59
-TAGS: s-->
-# LanguageRegister
-No documentation found.

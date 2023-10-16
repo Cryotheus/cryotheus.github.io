@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: byte
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/net/stream/shared.lua#L626-L639
-TAGS: cs-->
-# WriteByte
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L251-L259
-TAGS: cs-->
-# Floor
-Round the vector down to the nearest integer.
-This modifies the vector.

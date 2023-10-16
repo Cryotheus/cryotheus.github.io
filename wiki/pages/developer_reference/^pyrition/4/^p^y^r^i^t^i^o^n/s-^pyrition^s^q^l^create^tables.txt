@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _database_name
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L194-L198
-TAGS: s-->
-# PyritionSQLCreateTables
-No documentation found.

@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/difficulty/shared.lua#L29-L35
-TAGS: cs-->
-# NecrosisDifficultyStartRegistration
-This hook is called before the difficulties are registered.

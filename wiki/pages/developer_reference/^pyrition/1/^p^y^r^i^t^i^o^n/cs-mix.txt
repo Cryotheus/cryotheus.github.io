@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: fraction alpha bravo
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/gradient.lua#L5-L15
-TAGS: cs-->
-# mix
-No documentation found.

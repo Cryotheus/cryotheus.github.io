@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: alpha_start_x alpha_start_y alpha_end_x alpha_end_y bravo_start_x bravo_start_y bravo_end_x bravo_end_y
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/modules/math.lua#L113-L126
-TAGS: cs-->
-# IntersectionByPoints
-No documentation found.

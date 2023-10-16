@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: completion_callback
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L143-L160
-TAGS: s-->
-# SQLCommit
-No documentation found.

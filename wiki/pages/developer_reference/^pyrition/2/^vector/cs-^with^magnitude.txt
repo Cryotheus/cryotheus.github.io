@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :magnitude
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L352-L357
-TAGS: cs-->
-# WithMagnitude
-Returns a copied vector with the specified magnitude.

@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/meta.lua#L11
-TAGS: cs-->
-# NecrosisPlaying
-Playing, as a survivor.

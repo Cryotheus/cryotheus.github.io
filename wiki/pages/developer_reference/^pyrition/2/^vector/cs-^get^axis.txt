@@ -1,7 +1,0 @@
-<!--META!ARGUMENTS: :intolerance
-OWNER: Pyrition
-RETURNS: 
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/classes/vector.lua#L261-L274
-TAGS: cs-->
-# GetAxis
-Returns the closest axis a UNIT VECTOR is aligned to, or false if it was not greater than intolerance (default of 0.99)

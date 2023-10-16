@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply class level initial
-OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/player/badge/shared.lua#L193-L206
-TAGS: cs-->
-# PlayerBadgeSet
-No documentation found.

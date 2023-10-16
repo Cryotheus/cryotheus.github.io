@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: value
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/slider.lua#L33-L38
-TAGS: c-->
-# SetSlideX
-No documentation found.

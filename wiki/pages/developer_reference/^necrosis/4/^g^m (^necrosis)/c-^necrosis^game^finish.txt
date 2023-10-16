@@ -1,5 +1,0 @@
-<!--META!OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/client.lua#L5-L8
-TAGS: c-->
-# NecrosisGameFinish
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply entity position
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/kick/server.lua#L20-L37
-TAGS: s-->
-# PlayerKickImpactEntity
-No documentation found.

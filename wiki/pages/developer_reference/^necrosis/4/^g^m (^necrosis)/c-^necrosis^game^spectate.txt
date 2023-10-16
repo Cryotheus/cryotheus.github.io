@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: _ply
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/game/client.lua#L11
-TAGS: c-->
-# NecrosisGameSpectate
-No documentation found.

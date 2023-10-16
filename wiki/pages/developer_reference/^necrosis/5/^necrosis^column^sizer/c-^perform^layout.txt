@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: width
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/panels/column_sizer.lua#L10-L30
-TAGS: c-->
-# PerformLayout
-No documentation found.

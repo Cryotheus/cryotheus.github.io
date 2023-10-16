@@ -1,5 +1,0 @@
-<!--META!OWNER: Pyrition
-SOURCE: https://github.com/Cryotheus/pyrition_2/blob/main/lua/pyrition/sql/server.lua#L200-L233
-TAGS: s-->
-# PyritionSQLInitialize
-No documentation found.

@@ -1,6 +1,0 @@
-<!--META!ARGUMENTS: ply respawn team_index
-OWNER: Necrosis
-SOURCE: https://github.com/Cryotheus/necrosis/blob/master/gamemodes/necrosis/gamemode/player/server.lua#L45-L53
-TAGS: s-->
-# NecrosisPlayerSpawnAsSpectator
-No documentation found.
